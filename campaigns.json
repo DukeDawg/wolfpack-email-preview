@@ -1,0 +1,134 @@
+{
+  "week": "2026-03-31",
+  "type": "nr",
+  "created_at": "2026-03-29T23:30:08.028089+00:00",
+  "campaigns": [
+    {
+      "imprint": "wolfpack",
+      "campaign_id": 63360130,
+      "mail_id": 67017358,
+      "name": "NR - Wolfpack Publishing - 2026-03-31",
+      "subject": "New This Week: Death to Deserters & No Other Woman & Bloody Trails: A Classic Western Double",
+      "groups": [
+        110900612
+      ],
+      "group_names": [
+        "Group 110900612"
+      ],
+      "total_subscribers": 1560,
+      "status": "draft",
+      "sent_at": null,
+      "books": [
+        "Death to Deserters",
+        "No Other Woman",
+        "Bloody Trails: A Classic Western Double"
+      ],
+      "from_email": "team@wolfpackpublishing.com",
+      "from_name": "Wolfpack Publishing"
+    },
+    {
+      "imprint": "dwb",
+      "campaign_id": 63360209,
+      "mail_id": 67017441,
+      "name": "NR - Dark Wolf Books - 2026-03-31",
+      "subject": "New This Week: GET YOUR COPY &rarr;",
+      "groups": [
+        112931961,
+        112931962,
+        112931963
+      ],
+      "group_names": [
+        "Group 112931961",
+        "Group 112931962",
+        "Group 112931963"
+      ],
+      "total_subscribers": 7,
+      "status": "draft",
+      "sent_at": null,
+      "books": [
+        "GET YOUR COPY &rarr;"
+      ],
+      "from_email": "team@darkwolfbooks.com",
+      "from_name": "Dark Wolf Books"
+    },
+    {
+      "imprint": "lnbp",
+      "campaign_id": 63360210,
+      "mail_id": 67017442,
+      "name": "NR - Love N. Books Press - 2026-03-31",
+      "subject": "New This Week: Get Your Copy &rarr;",
+      "groups": [
+        112835845
+      ],
+      "group_names": [
+        "Group 112835845"
+      ],
+      "total_subscribers": 824,
+      "status": "draft",
+      "sent_at": null,
+      "books": [
+        "Get Your Copy &rarr;"
+      ],
+      "from_email": "team@lovenbookspress.com",
+      "from_name": "Love N. Books Press"
+    },
+    {
+      "imprint": "rep",
+      "campaign_id": 63360211,
+      "mail_id": 67017443,
+      "name": "NR - Rough Edges Press - 2026-03-31",
+      "subject": "New This Week: Get Your Copy &rarr;",
+      "groups": [
+        110899850,
+        110900180,
+        110901470,
+        110901665
+      ],
+      "group_names": [
+        "Group 110899850",
+        "Group 110900180",
+        "Group 110901470",
+        "Group 110901665"
+      ],
+      "total_subscribers": 39699,
+      "status": "draft",
+      "sent_at": null,
+      "books": [
+        "Get Your Copy &rarr;"
+      ],
+      "from_email": "team@roughedgespress.com",
+      "from_name": "Rough Edges Press"
+    }
+  ],
+  "wolfpack_nr": {
+    "campaign_id": 63364505,
+    "subject": "New This Week: No Other Woman by Heather Graham + 2 More Westerns",
+    "status": "draft",
+    "featured_book": "No Other Woman",
+    "books": [
+      "No Other Woman",
+      "Death to Deserters",
+      "Bloody Trails: A Classic Western Double"
+    ],
+    "group_ids": [
+      110900612
+    ],
+    "from": "team@wolfpackpublishing.com"
+  },
+  "rep_nr": {
+    "campaign_id": 63364685,
+    "subject": "New This Week: Lucas Stone: Volume One by Mark Allen \u2014 6 Books of a Warrior-Turned-Preacher",
+    "status": "draft",
+    "books": [
+      "Lucas Stone: Volume One"
+    ],
+    "group_ids": [
+      110899850,
+      110900180,
+      110901470,
+      110901665
+    ],
+    "from": "team@roughedgespress.com",
+    "added_quotes": true
+  }
+}
