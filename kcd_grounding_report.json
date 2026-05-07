@@ -1,0 +1,291 @@
+{
+  "schema": "wolfpack.kcd.grounding_report.v1",
+  "date": "2026-05-13",
+  "output_dir": "jessica-handover/wolfpack-email/output/2026-05-13-pilot",
+  "summary": {
+    "total": 9,
+    "pass": 9,
+    "warn": 0,
+    "fail": 0
+  },
+  "missing_copy_bank": [],
+  "books": [
+    {
+      "asin": "B0CLQGS9BL",
+      "title": "Athena Unleashed",
+      "author": "W. Michael Gear",
+      "blurb_source": "https://wolfpackpublishing.com/products/athena-unleashed-a-science-thriller-the-athena-trilogy-book-1",
+      "blurb": "Prepare to have your perspective on Hollywood, fame, and your own genetic makeup forever transformed by the first installment in The Athena Trilogy, a gripping series by\nNew York Times\nbestselling author W. Michael Gear.\nSheela Marks, her new Oscar in hand, has just reached the peak of Hollywood fame, commanding a staggering thirty million dollars per film. Stalked by all, her safety depends on her bodyguard, Lymon Bridges.\nWhen Sheela falls victim to a brutal assault in a New York hotel corridor, Bridges embarks on a relentless quest for truth, joining forces with disgraced FBI agent Christal Anaya. But Sheela’s high-profile attack is just the tip of the iceberg—other celebrities are being victimized in high-profile burglaries and attacks all across the country.\nAs Anaya and Bridges become embroiled in a high-stakes game of cat and mouse, their mysterious stalkers manipulate them like pawns in a sinister plot. And a pivotal question looms: who or what is Genesis Athena?\nMulti-layered and written with engaging wit and suspense, Athena Unleashed is an eerily compelling story of greed, exploitation…and obsession. Don’t miss this enthralling journey into the depths of intrigue and mystery today.",
+      "description": "When Hollywood superstar Sheela Marks is brutally attacked in a New York hotel, bodyguard Lymon Bridges teams with disgraced FBI agent Christal Anaya to chase the truth. What they uncover reaches deeper than fame—and a name keeps surfacing: Genesis Athena. From W. Michael Gear.",
+      "anchors_extracted": [
+        "Hollywood",
+        "The Athena Trilogy",
+        "W. Michael Gear.\nSheela Marks",
+        "Oscar",
+        "Lymon Bridges.\nWhen Sheela",
+        "New York",
+        "Bridges",
+        "FBI",
+        "Christal Anaya. But Sheela",
+        "As Anaya and Bridges",
+        "Genesis Athena",
+        "Multi-layered",
+        "Don"
+      ],
+      "anchors_matched": [
+        "Hollywood",
+        "New York",
+        "Bridges",
+        "FBI",
+        "Genesis Athena"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B086N3C57W",
+      "title": "The Repairman: The Complete Series",
+      "author": "L.J. Martin",
+      "blurb_source": "https://wolfpackpublishing.com/products/the-repairman-the-complete-series",
+      "blurb": "ACCLAIMED ACTION ADVENTURE WRITER L.J. MARTIN BRINGS YOU ON TEN EXHILARATING ESCAPADES IN THE REPAIRMAN: THE COMPLETE SERIES.\nGot a problem? Mike Reardon, the repairman, can fix it. As a Marine, Mike Reardon, was taught to search and destroy, now he has to do what he knows best.\nThe repairman and his crew travel the world with the goal of solving the biggest and toughest problems. They always have their work cut out for them, but the most important goal is staying alive!\n“The action and adventure rivals the best of Tom Clancy.”\n–\nAward-winning author, Robert Vaughan\nThe Repairman: The Complete Series includes The Repairman; The Bakken; G5, Gee Whiz; Who’s on Top?; Target Shy & Sexy; Judge, Jury, Desert Fury; No Good Deed; Overflow; The K Factor; The Blue Pearl.",
+      "description": "Mike Reardon is the man you call when the law can't help and the problem won't wait. Ex-Recon Marine, full series of jobs no one else will touch—Bakken oil-patch drug runners, hijacked aircraft, hostage extractions from places that don't show up on maps. By L.J. Martin.",
+      "anchors_extracted": [
+        "THE COMPLETE SERIES.\nGot",
+        "Mike Reardon",
+        "Marine",
+        "Robert Vaughan\nThe Repairman",
+        "The Bakken",
+        "G5",
+        "Gee Whiz",
+        "Top",
+        "Target Shy",
+        "Sexy",
+        "Judge",
+        "Jury",
+        "Desert Fury",
+        "No Good Deed",
+        "Overflow",
+        "The K Factor",
+        "The Blue Pearl"
+      ],
+      "anchors_matched": [
+        "Mike Reardon",
+        "Marine"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0DGGMF4DX",
+      "title": "Epic Adventures: Volume 1",
+      "author": "Win Blevins",
+      "blurb_source": "https://wolfpackpublishing.com/products/epic-adventures-volume-one-books-1-2",
+      "blurb": "AN EPIC WESTERN ADVENTURE FULL OF UNFORGETTABLE CHARACTERS AND DEEPLY SPIRITUAL STORIES.\nNominee for the Pulitzer Prize and winner of the Spur Award,\nStone Song\nfollows the infamous Lakota Sioux mystic warrior, Crazy Horse. Ridiculed as a child for his white man looks, Crazy Horse seeks and receives a powerful vision that guides his destiny. Committed to fighting for his people, he rejects traditional Lakota rewards and personal dreams to fulfill his vision as a mystic warrior. But haunted by his love for a woman and finding peace only in battle, can Crazy Horse harness the eternal wisdom of his people to outmaneuver the U.S. Army at the historic Battle of the Little Bighorn?\nRavenShadow\nfollows the journey of Joseph Blue Crow, an American Indian grappling with lost faith and seeking redemption. Chosen before birth to uphold the sacred Sioux traditions, Blue strays onto the white man’s path of basketball, alcohol, and despair. Devastated by the loss of his heritage and the suicide of his beloved, Blue’s life spirals downward until he faces a life-or-death moment. Heeding his best friend’s advice, Blue embarks on a transformative journey. Guided by a shaman and a spirit bird, he confronts the painful history of Wounded Knee, standing with his ancestors as they fall under attack.\nExperience the profound journeys of two men whose lives are marked by visions, battles, and the enduring wisdom of their people. This classic Western collection will leave an indelible mark on your heart, all the while celebrating the resilient spirit of Native American heritage.\nEpic Adventures: Volume One\nincludes\nStone Song\nand\nRavenShadow\n.\n“Blevins’ prose is razor sharp, his characters are clearly defined, and his heart, like so many, is at Wounded Knee.”\n—\nBooklist",
+      "description": "Two novels from Win Blevins gathered as Epic Adventures: Volume 1. Stone Song carries Lakota mystic warrior Crazy Horse from a boyhood vision to the Battle of the Little Bighorn. RavenShadow walks Joseph Blue Crow back to Wounded Knee with his ancestors.",
+      "anchors_extracted": [
+        "Stone Song",
+        "Lakota Sioux",
+        "Crazy Horse. Ridiculed",
+        "Crazy Horse",
+        "Lakota",
+        "U.S. Army",
+        "Battle",
+        "Little Bighorn",
+        "Joseph Blue Crow",
+        "American Indian",
+        "Chosen",
+        "Sioux",
+        "Blue",
+        "Wounded Knee",
+        "Western",
+        "Native American",
+        "Volume One",
+        "Stone Song\nand\nRavenShadow"
+      ],
+      "anchors_matched": [
+        "Stone Song",
+        "Crazy Horse",
+        "Lakota",
+        "Battle",
+        "Little Bighorn",
+        "Joseph Blue Crow",
+        "Blue",
+        "Wounded Knee"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0DCHK6K5T",
+      "title": "Erik Haraldsson",
+      "author": "Ron Briggs",
+      "blurb_source": "https://wolfpackpublishing.com/products/erik-haraldsson-a-norse-warrior-exploration-series-yellow-hair-book-1",
+      "blurb": "In a land of fierce traditions, one Norse warrior’s quest for a better future will test the limits of destiny.\nIn the harsh, unrelenting world of eleventh-century Norway, Erik Haraldsson strives to carve out his own path. Repelled by his society’s wanton brutality, he is torn between following the Norse warrior tradition and seeking adventure in faraway lands.\nAs he moves into adulthood, Erik devises his own strategies for survival and guides his family as best he can. But when an unexpected sighting leads him to a new life in an uncertain land, he faces a crucial decision that could lead to unbridled success—or catastrophe. Desiring to make his world a better place, he forges ahead in battle and vows to slay the great ice bear.\nAlongside vivid portrayals of an ancient, complicated land, Erik embarks on a journey of inward and outward exploration, where he grows into the knowledge that even though his society may not be ready for his enlightened ways, he can still remain steadfast in paving the way for a better future.\nEmbark on a timeless odyssey as a fierce warrior navigates the perilous currents of his destiny.\nWill Erik Haraldsson’s courage and vision prevail against the forces of an unforgiving time? Order your copy of this adventure series today.\n“\n…brings America’s past alive with vibrant characters, intricate plotting, and an ever-increasing tempo.”\n—W. Michael Gear,\nNew York Times\nbestselling author",
+      "description": "Repelled by the brutality of his own people, 11th-century Norse warrior Erik Haraldsson sets out to build something better—for himself, for his family, in lands no Northman has named. Ron Briggs's Yellow Hair Series carries Erik from the fjords toward the mountains of a new world.",
+      "anchors_extracted": [
+        "Norse",
+        "Norway",
+        "Will Erik Haraldsson",
+        "America",
+        "W. Michael Gear"
+      ],
+      "anchors_matched": [
+        "Norse"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0BQNF7LGR",
+      "title": "Gunslinger: The Complete Series",
+      "author": "A.W. Hart",
+      "blurb_source": "https://wolfpackpublishing.com/products/gunslinger-the-complete-series-books-1-9",
+      "blurb": "FROM THE AUTHOR OF THE FAST-PACED AVENGING ANGELS SERIES COMES A NEW KIND OF WESTERN HERO… Fourteen-year-old Connor Mack dreams of escape from abuse on an East Texas family spread and must take his twin sister Abby with him. When wanted man River Hicks rides in with bounty hunters on his trail, Connor kills for the first time and follows Hicks into a nine-book journey.",
+      "description": "Gunslinger: The Complete Series follows fourteen-year-old Connor Mack and his twin sister Abby as wanted gunman River Hicks gives them a violent chance to flee abuse. Nine A.W. Hart westerns of outlaws, bounty hunters, secrets, and survival.",
+      "anchors_extracted": [
+        "FROM THE AUTHOR OF THE FAST-PACED AVENGING ANGELS SERIES COMES A NEW KIND OF WESTERN HERO",
+        "Fourteen-year-old Connor Mack",
+        "East Texas",
+        "Abby",
+        "River Hicks",
+        "Connor",
+        "Hicks"
+      ],
+      "anchors_matched": [
+        "Fourteen-year-old Connor Mack",
+        "Abby",
+        "River Hicks",
+        "Connor",
+        "Hicks"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0DDDYBYVF",
+      "title": "Latigo's Choice: Taming the West",
+      "author": "Patrick Lindsay",
+      "blurb_source": "https://wolfpackpublishing.com/products/latigos-choice-taming-the-west-latigo-book-1",
+      "blurb": "In the heart of the American West, Latigo Smith stands at a crossroads that will define his destiny.\nA deputy sheriff in Texas hill country, Latigo is beckoned by the call of his Colorado roots—a land now pulsating with the fervent excitement of railroads carving through the wilderness and the glint of gold and silver discoveries.\nUpon his return, Colorado greets Latigo with more than the promise of adventure and fortune. Mysterious fragments of his family’s history begin to surface, intertwined with the enigmatic presence of Joanna, a young woman whose path he was destined to cross. And when highwaymen try to rob him, he routs the robbers, making an enemy he’ll have to fight to the finish.\nAs Latigo delves deeper, he stumbles upon an extraordinary tale: whispers of black gold, unlike any other gold or silver, heard by only a few in the lore of the West. This discovery propels him on a journey that blurs the lines between past and present, as he navigates a land filled with opportunities and secrets. What unfolds is a captivating story of life, love, and gun-blazing action across the American frontier.\nDon’t miss out on this riveting Western tale of courage and discovery. Get your copy of\nLatigo’s Choice: Taming the Frontier\ntoday and embark on an unforgettable adventure in the untamed West!",
+      "description": "Deputy Latigo Smith leaves the Texas hills for boomtown Colorado—railroads, silver, and a family secret he means to dig up. An ambush makes him an enemy who never forgets. Then there's Joanna, and a whisper called black gold. First in Patrick Lindsay's Latigo series.",
+      "anchors_extracted": [
+        "American West",
+        "Latigo Smith",
+        "Texas",
+        "Latigo",
+        "Colorado",
+        "Mysterious",
+        "Joanna",
+        "As Latigo",
+        "West. This",
+        "American",
+        "Don",
+        "Western",
+        "Taming the Frontier"
+      ],
+      "anchors_matched": [
+        "Latigo Smith",
+        "Texas",
+        "Latigo",
+        "Colorado",
+        "Joanna"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0DQ97CD9F",
+      "title": "Lost Canyon",
+      "author": "John D. Nesbitt",
+      "blurb_source": "https://wolfpackpublishing.com/products/lost-canyon-a-jess-delaine-western-mystery-jess-delaine-book-1",
+      "blurb": "In an unforgiving town, one cowboy seeks a fresh start…and finds himself entangled in a mystery that could cost him everything.\nWhile working at the Silver Pine Ranch, Jess Delaine befriends Tom Caswell, a troubled ranch hand with secrets. When the cowhand turns up dead, Delaine works to uncover the truth, digging into Caswell’s past and hearing whispers of illicit dealings and unsolved disappearances.\nTeaming up with a local schoolteacher and a waitress from the Sweet Auburn Café, Delaine unravels a chilling scheme involving stolen cattle and human trafficking. His search leads him to a remote ranch in Lost Canyon, where he finds evidence—live and otherwise—that exposes the rumors running beneath the town's surface.\nAs Delaine fights to save the innocent and deliver justice to those victimized, he faces the complacency of a town steeped in corruption and fear. In a place where trust is scarce, he must ask himself: Can he unearth the truth, or will he become the next name on a growing list of casualties?\nDive into the heart of Lost Canyon and follow Jess Delaine as he battles deception and Old West danger. Order your copy of this Western mystery today!\n“Nesbitt demonstrates himself a skilled wrangler of detail and character.”\n—\nPublishers Weekly",
+      "description": "Cowboy Jess Delaine takes a job at the Silver Pine Ranch looking for quiet—and gets a friend's murder, stolen cattle, and a town too scared to talk. With a schoolteacher and a waitress beside him, he rides for the canyon where the answers are buried. John D. Nesbitt's series opener.",
+      "anchors_extracted": [
+        "Silver Pine Ranch",
+        "Jess Delaine",
+        "Tom Caswell",
+        "Delaine",
+        "Caswell",
+        "Teaming",
+        "Sweet Auburn Café",
+        "As Delaine",
+        "Old West",
+        "Western"
+      ],
+      "anchors_matched": [
+        "Silver Pine Ranch",
+        "Jess Delaine",
+        "Delaine"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0CV4D8QLK",
+      "title": "McCain: The Complete Series",
+      "author": "B.N. Rundell",
+      "blurb_source": "https://wolfpackpublishing.com/products/mccain-the-complete-western-chronicles-books-1-8",
+      "blurb": "In a sweeping saga of courage, sacrifice, and redemption, bestselling author B.N. Rundell presents the complete epic journey of Elijah McCain.\nFrom the aftermath of the Civil War to the untamed frontiers of the West, follow McCain's relentless pursuit of a promise made to his dying wife—to find and bring home their twin sons, no matter the cost.\nFrom the gold fields of Montana to the scorching deserts of California, McCain faces the perils of lawless lands, ruthless outlaws, and vengeful natives, all while wrestling with the ghosts of his past and the uncertain future of a nation torn by war and greed. With each step closer to his sons, McCain discovers that the true measure of a man lies not in his victories, but in his unwavering commitment to honor and family.\nJoin Elijah McCain on an unforgettable journey through the heart of the Wild West, where every twist of fate brings him closer to an ultimate showdown of courage and destiny.\nThis complete Western collection includes\nThe Covenant\n,\nLast Chance Gulch\n,\nBear Gulch\n,\nNaches Trail\n,\nSiskiyou Trail\n,\nEmigrant Trail\n,\nWashita\n,\nand\nBridger Trail\n.",
+      "description": "Elijah McCain rides out of the Civil War with one promise to keep: bring his twin sons home. The trail runs from Montana gold camps to California desert—lawless country, ruthless men, the ghosts of the war he just left. Eight novels of B.N. Rundell's McCain saga.",
+      "anchors_extracted": [
+        "B.N. Rundell",
+        "Elijah McCain.\nFrom",
+        "Civil War",
+        "West",
+        "McCain's",
+        "Montana",
+        "California",
+        "Join Elijah McCain",
+        "Wild West",
+        "Western",
+        "The Covenant",
+        "Last Chance Gulch",
+        "Bear Gulch",
+        "Naches Trail",
+        "Siskiyou Trail",
+        "Emigrant Trail",
+        "Washita",
+        "Bridger Trail"
+      ],
+      "anchors_matched": [
+        "B.N. Rundell",
+        "Civil War",
+        "McCain's",
+        "Montana",
+        "California"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    },
+    {
+      "asin": "B0F7CKGQV6",
+      "title": "Pathfinder",
+      "author": "Ash Lingam",
+      "blurb_source": "https://wolfpackpublishing.com/products/pathfinder-a-western-double-levi-johnson-mountain-man-scout-book-1",
+      "blurb": "He left Indiana with a rifle and a dream—now the mountains will decide his fate. Levi Beaver Johnson was born to the woods of southeastern Indiana, known as Trapper Boy and the best shot in the state. He leaves home for the frontier forts of Kansas and army scout work to earn his way into the Rockies. Includes Pathfinder and Rusty Steel.",
+      "description": "Levi 'Beaver' Johnson grew up with a rifle and traps in the Indiana woods—now he's heading west to make himself a mountain man. Army scout work funds the road, and the Rockies take what they want. Two-novel Western Double from Ash Lingam—Pathfinder and Rusty Steel.",
+      "anchors_extracted": [
+        "Indiana",
+        "Levi Beaver Johnson",
+        "Trapper Boy",
+        "Kansas",
+        "Rockies. Includes Pathfinder and Rusty Steel"
+      ],
+      "anchors_matched": [
+        "Indiana",
+        "Levi Beaver Johnson"
+      ],
+      "banned_phrases_found": [],
+      "status": "pass",
+      "reasons": []
+    }
+  ]
+}
