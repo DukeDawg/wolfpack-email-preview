@@ -9,6 +9,7 @@
     "fail": 0
   },
   "missing_copy_bank": [],
+  "banned_phrase_overrides": [],
   "books": [
     {
       "asin": "B0CLQGS9BL",
