@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-13",
+  "headers": [
+    {
+      "actual_sha256": "67e877cd8c5bf7bdd9e49a61987924248e85bb6a1a2b2dfc73b6e23ff8f32dfe",
+      "approved_at": "2026-04-18T00:00:00Z",
+      "approved_by": "david",
+      "current_file_path": "jessica-handover/wolfpack-email/header-library/wolfpack/current/header.jpg",
+      "display_height": null,
+      "display_width": null,
+      "expected_sha256": "67e877cd8c5bf7bdd9e49a61987924248e85bb6a1a2b2dfc73b6e23ff8f32dfe",
+      "header_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/wolfpack/current/header.jpg",
+      "imprint": "wolfpack",
+      "label": "Wolfpack",
+      "manifest_header_path": "jessica-handover/wolfpack-email/header-library/wolfpack/current/header.jpg",
+      "public_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_headers/wolfpack_header_logo_v10.jpg?v=20260422b"
+    },
+    {
+      "actual_sha256": "d2f95ea2e0f5bde686c513339e13ec824f1c779d5471eb849a15805e4ed56e17",
+      "approved_at": "2026-04-18T00:00:00Z",
+      "approved_by": "david",
+      "current_file_path": "jessica-handover/wolfpack-email/header-library/rep/current/header.jpg",
+      "display_height": null,
+      "display_width": null,
+      "expected_sha256": "d2f95ea2e0f5bde686c513339e13ec824f1c779d5471eb849a15805e4ed56e17",
+      "header_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/rep/current/header.jpg",
+      "imprint": "rep",
+      "label": "Rough Edges Press",
+      "manifest_header_path": "jessica-handover/wolfpack-email/header-library/rep/current/header.jpg",
+      "public_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_headers/rep_header_groundup_v10.jpg?v=20260422b"
+    },
+    {
+      "actual_sha256": "1faac4d7f63ee61a4ce7aa0bb1bf02c8bfcb1fe7e1f90c3021d3eb5c3bde62b3",
+      "approved_at": "2026-04-18T00:00:00Z",
+      "approved_by": "david",
+      "current_file_path": "jessica-handover/wolfpack-email/header-library/lnbp/current/header.jpg",
+      "display_height": null,
+      "display_width": null,
+      "expected_sha256": "1faac4d7f63ee61a4ce7aa0bb1bf02c8bfcb1fe7e1f90c3021d3eb5c3bde62b3",
+      "header_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/lnbp/current/header.jpg",
+      "imprint": "lnbp",
+      "label": "Love N. Books Press",
+      "manifest_header_path": "jessica-handover/wolfpack-email/header-library/lnbp/current/header.jpg",
+      "public_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_headers/lnbp_header_groundup_v9.jpg?v=20260422b"
+    },
+    {
+      "actual_sha256": "8935547a8e97ef3d781f056d2ec72dc985cacf3d83d7c6893ecea25f5f0ad0ec",
+      "approved_at": "2026-04-27T10:32:00Z",
+      "approved_by": "david",
+      "current_file_path": "jessica-handover/wolfpack-email/header-library/dwb/current/header.png",
+      "display_height": 200,
+      "display_width": 600,
+      "expected_sha256": "8935547a8e97ef3d781f056d2ec72dc985cacf3d83d7c6893ecea25f5f0ad0ec",
+      "header_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/dwb/current/header.png",
+      "imprint": "dwb",
+      "label": "Dark Wolf Books",
+      "manifest_header_path": "jessica-handover/wolfpack-email/header-library/dwb/current/header.png",
+      "public_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_headers/dwb_header_cinematic_v1.png?v=20260427a"
+    },
+    {
+      "actual_sha256": "d27b327bde0a3aa91bb78ca39115975cec066b9e8254f6d45516192644a39f92",
+      "approved_at": "2026-04-18T00:00:00Z",
+      "approved_by": "david",
+      "current_file_path": "jessica-handover/wolfpack-email/header-library/ckn/current/header.jpg",
+      "display_height": null,
+      "display_width": null,
+      "expected_sha256": "d27b327bde0a3aa91bb78ca39115975cec066b9e8254f6d45516192644a39f92",
+      "header_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/ckn/current/header.jpg",
+      "imprint": "ckn",
+      "label": "CKN Christian Publishing",
+      "manifest_header_path": "jessica-handover/wolfpack-email/header-library/ckn/current/header.jpg",
+      "public_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_headers/ckn_header_groundup_v9.jpg?v=20260422b"
+    },
+    {
+      "actual_sha256": "63d8f8318d20a371e570d910f2141166513dfe9343e3758199ffa72129920c11",
+      "approved_at": "2026-04-22T00:00:00Z",
+      "approved_by": "david",
+      "current_file_path": "jessica-handover/wolfpack-email/header-library/wwb/current/header.jpg",
+      "display_height": null,
+      "display_width": null,
+      "expected_sha256": "63d8f8318d20a371e570d910f2141166513dfe9343e3758199ffa72129920c11",
+      "header_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/wwb/current/header.jpg",
+      "imprint": "wwb",
+      "label": "Wise Wolf Books",
+      "manifest_header_path": "jessica-handover/wolfpack-email/header-library/wwb/current/header.jpg",
+      "public_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_headers/wwb_header_groundup_v10.jpg?v=20260422c"
+    }
+  ],
+  "manifest_path": "/root/.openclaw/workspace/jessica-handover/wolfpack-email/header-library/manifest.json",
+  "schema": "wolfpack.kcd.header_validation.v1"
+}

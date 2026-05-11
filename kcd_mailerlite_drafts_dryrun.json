@@ -1,0 +1,103 @@
+{
+  "schema": "wolfpack.kcd.mailerlite_drafts_dryrun.v1",
+  "date": "2026-05-13",
+  "scope": "13book-dryrun-non-wolfpack-imprint+wolfpack-pilot-rerender",
+  "generated_at": "2026-05-10T01:27:51Z",
+  "note": "DRY RUN \u2014 no MailerLite HTTP calls were made. These are the payloads that would be sent on approval.",
+  "drafts": [
+    {
+      "imprint": "wolfpack",
+      "imprint_name": "Wolfpack Publishing",
+      "subject": "Western & Mystery Deals \u2014 9 books at $0.99",
+      "subject_chars": 42,
+      "from_name": "Wolfpack Publishing",
+      "from_email": "kcd@wolfpackpublishing.com",
+      "html_file": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/wolfpack_kcd.html",
+      "book_count": 9,
+      "asins": [
+        "B0CLQGS9BL",
+        "B086N3C57W",
+        "B0DGGMF4DX",
+        "B0DCHK6K5T",
+        "B0BQNF7LGR",
+        "B0DDDYBYVF",
+        "B0DQ97CD9F",
+        "B0CV4D8QLK",
+        "B0F7CKGQV6"
+      ]
+    },
+    {
+      "imprint": "rep",
+      "imprint_name": "Rough Edges Press",
+      "subject": "Thriller & Crime Deals \u2014 4 books at $0.99",
+      "subject_chars": 41,
+      "from_name": "Rough Edges Press",
+      "from_email": "kcd@wolfpackpublishing.com",
+      "html_file": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/rep_kcd.html",
+      "book_count": 4,
+      "asins": [
+        "B09SHFZV92",
+        "B0BYWG4B55",
+        "B0DW6XZ2TT",
+        "B0FWLFRQKZ"
+      ]
+    },
+    {
+      "imprint": "lnbp",
+      "imprint_name": "Love N. Books Press",
+      "subject": "Romance Deals \u2014 3 books at $0.99",
+      "subject_chars": 32,
+      "from_name": "Love N. Books Press",
+      "from_email": "kcd@wolfpackpublishing.com",
+      "html_file": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/lnbp_kcd.html",
+      "book_count": 3,
+      "asins": [
+        "B0FH7MTJCL",
+        "B0GJ123BX6",
+        "B0DQ96M71D"
+      ]
+    },
+    {
+      "imprint": "dwb",
+      "imprint_name": "Dark Wolf Books",
+      "subject": "Horror Deal \u2014 1 book at $0.99",
+      "subject_chars": 29,
+      "from_name": "Dark Wolf Books",
+      "from_email": "kcd@wolfpackpublishing.com",
+      "html_file": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/dwb_kcd.html",
+      "book_count": 1,
+      "asins": [
+        "B0FB8MNDJ8"
+      ]
+    },
+    {
+      "imprint": "ckn",
+      "imprint_name": "CKN Christian Publishing",
+      "subject": "Christian Fiction Deals \u2014 2 books at $0.99",
+      "subject_chars": 42,
+      "from_name": "CKN Christian Publishing",
+      "from_email": "kcd@wolfpackpublishing.com",
+      "html_file": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/ckn_kcd.html",
+      "book_count": 2,
+      "asins": [
+        "B0DHYYJFQQ",
+        "B08SGQC2CC"
+      ]
+    },
+    {
+      "imprint": "wwb",
+      "imprint_name": "Wise Wolf Books",
+      "subject": "Adventure Deals \u2014 3 books at $0.99",
+      "subject_chars": 34,
+      "from_name": "Wise Wolf Books",
+      "from_email": "kcd@wolfpackpublishing.com",
+      "html_file": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/wwb_kcd.html",
+      "book_count": 3,
+      "asins": [
+        "B0DKTZNT8S",
+        "B0CHC2PP9B",
+        "B0FRJWLT25"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "wolfpack.kcd.link_validation.v1",
+  "output_dir": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun",
+  "files": [
+    "ckn_kcd.html",
+    "dwb_kcd.html",
+    "lnbp_kcd.html",
+    "rep_kcd.html",
+    "wolfpack_kcd.html",
+    "wwb_kcd.html"
+  ],
+  "counts": {
+    "issues": 0,
+    "files": 6
+  },
+  "issues": [],
+  "classification_log": [
+    "KCD rendered href classified: mailerlite_merge_token \u2014 rendered HTML file \"jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/ckn_kcd.html\", anchor text \"Unsubscribe\", href index 8, href=\"{$unsubscribe}\"",
+    "KCD rendered href classified: mailerlite_merge_token \u2014 rendered HTML file \"jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/dwb_kcd.html\", anchor text \"Unsubscribe\", href index 7, href=\"{$unsubscribe}\"",
+    "KCD rendered href classified: mailerlite_merge_token \u2014 rendered HTML file \"jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/lnbp_kcd.html\", anchor text \"Unsubscribe\", href index 9, href=\"{$unsubscribe}\"",
+    "KCD rendered href classified: mailerlite_merge_token \u2014 rendered HTML file \"jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/rep_kcd.html\", anchor text \"Unsubscribe\", href index 10, href=\"{$unsubscribe}\"",
+    "KCD rendered href classified: mailerlite_merge_token \u2014 rendered HTML file \"jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/wolfpack_kcd.html\", anchor text \"Unsubscribe\", href index 15, href=\"{$unsubscribe}\"",
+    "KCD rendered href classified: mailerlite_merge_token \u2014 rendered HTML file \"jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/wwb_kcd.html\", anchor text \"Unsubscribe\", href index 9, href=\"{$unsubscribe}\""
+  ],
+  "summary": "KCD outbound link validation passed."
+}

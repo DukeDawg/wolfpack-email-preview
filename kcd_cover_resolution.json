@@ -1,0 +1,163 @@
+{
+  "schema": "wolfpack.kcd.cover_resolution.v1",
+  "date": "2026-05-13",
+  "scope": "13book-dryrun-non-wolfpack-imprint",
+  "covers": [
+    {
+      "asin": "B09SHFZV92",
+      "title": "AMBA",
+      "author": "Andrew Hallman",
+      "imprint": "rep",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/rep_amba_505f97ce.jpg",
+      "drive_file_id": "17RAjwFPIH6wtPPXySVGWK3CQH5b5Pkrf",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/rep_amba_505f97ce.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0BYWG4B55",
+      "title": "By Force or Fear",
+      "author": "Thonie Hevron",
+      "imprint": "rep",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/rep_by_force_or_fear_d6e24199.jpg",
+      "drive_file_id": "1iRVdHqf_120LwYiQGMbrP1zRNhDWaHTi",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/rep_by_force_or_fear_d6e24199.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0DW6XZ2TT",
+      "title": "Dark Justice",
+      "author": "J.L. Hughes",
+      "imprint": "rep",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/rep_dark_justice_63b80dd3.jpg",
+      "drive_file_id": "1pZkBe1lTi2Vb24UjLC2L-_8QDPu-vaGx",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/rep_dark_justice_63b80dd3.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0FWLFRQKZ",
+      "title": "The Doormen: The Complete Series",
+      "author": "Jarret Mazza",
+      "imprint": "rep",
+      "policy": "require_3d",
+      "source": "drive_3d",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/rep_the_doormen_the_complete_series_32e8ad1c.jpg",
+      "drive_file_id": "1gQW21pp2QO05q1wpLckgGBi67KsAZp4p",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/rep_the_doormen_the_complete_series_32e8ad1c.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0DKTZNT8S",
+      "title": "Callihan: Valley of Skulls",
+      "author": "L.J. Martin",
+      "imprint": "wwb",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/wwb_callihan_valley_of_skulls_5d842dfa.jpg",
+      "drive_file_id": "1HTj0ZGzWaDMH5oZrI9suenCAARm2ArSJ",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/wwb_callihan_valley_of_skulls_5d842dfa.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0CHC2PP9B",
+      "title": "Rowdy: The Complete Series",
+      "author": "Chris Mullen",
+      "imprint": "wwb",
+      "policy": "require_3d",
+      "source": "drive_3d",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/wwb_rowdy_the_complete_series_5c13bb6f.jpg",
+      "drive_file_id": "1Gu5Jr-g-j1Byg07_DeUeQ8ozbjtfFp0K",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/wwb_rowdy_the_complete_series_5c13bb6f.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0FRJWLT25",
+      "title": "The Shrinking Island",
+      "author": "Mickey Spillane",
+      "imprint": "wwb",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/wwb_the_shrinking_island_9175fb82.jpg",
+      "drive_file_id": "1K0ym6VqN47vCcYOp_F7BBUziwoh3bwaT",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/wwb_the_shrinking_island_9175fb82.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0FB8MNDJ8",
+      "title": "Gateways to Annihilation: Stories",
+      "author": "Jarret Keene",
+      "imprint": "dwb",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/dwb_gateways_to_annihilation_stories_8166e5e9.jpg",
+      "drive_file_id": "1MocKZD8y7hXi2M8mby0hXX6GdwfrPCZZ",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/dwb_gateways_to_annihilation_stories_8166e5e9.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0FH7MTJCL",
+      "title": "All The Way Under",
+      "author": "Rachel Robinson",
+      "imprint": "lnbp",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/lnbp_all_the_way_under_1dd67014.jpg",
+      "drive_file_id": "18qNbrhGL3G6uxKvKXTNZJrJmWb6UWP6a",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/lnbp_all_the_way_under_1dd67014.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0GJ123BX6",
+      "title": "Arabelle's Beast",
+      "author": "Courtney Deran",
+      "imprint": "lnbp",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/lnbp_arabelle's_beast_def08e98.jpg",
+      "drive_file_id": "14vu0jMQYrOokUYwDysWg2dBU3n9gIdYL",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/lnbp_arabelle's_beast_def08e98.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0DQ96M71D",
+      "title": "Deal Breakers",
+      "author": "Laura Lee",
+      "imprint": "lnbp",
+      "policy": "flat",
+      "source": "drive_flat",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/lnbp_deal_breakers_ac6f1472.jpg",
+      "drive_file_id": "1cfVYtRs3PlzbhNy4WNvWihfg8WK9OPal",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/lnbp_deal_breakers_ac6f1472.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B0DHYYJFQQ",
+      "title": "Demon Hunter: The Complete Series",
+      "author": "Kerry Adcock",
+      "imprint": "ckn",
+      "policy": "require_3d",
+      "source": "drive_3d",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/ckn_demon_hunter_the_complete_series_5fbbb852.jpg",
+      "drive_file_id": "19Pj5FREKR9V4yaR_LJI1qwSbhGGoVzbi",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/ckn_demon_hunter_the_complete_series_5fbbb852.jpg",
+      "notes": null
+    },
+    {
+      "asin": "B08SGQC2CC",
+      "title": "Matt Bannister: Books 1-9",
+      "author": "Ken Pratt",
+      "imprint": "ckn",
+      "policy": "require_3d",
+      "source": "drive_3d",
+      "cover_url": "https://dukedawg.github.io/wolfpack-email-preview/kcd_covers/2026-05-13/ckn_matt_bannister_books_1-9_07bd38a1.jpg",
+      "drive_file_id": "1OHFXwJMZaOYMP4E7_3xzf0DZN-geEDOT",
+      "local_path": "jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun/kcd_covers/2026-05-13/ckn_matt_bannister_books_1-9_07bd38a1.jpg",
+      "notes": null
+    }
+  ]
+}

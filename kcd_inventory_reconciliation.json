@@ -1,0 +1,798 @@
+{
+  "date": "2026-05-13",
+  "dropped_events": [],
+  "events": [
+    {
+      "asin_resolution_attempt": {
+        "asin": "B09SHFZV92",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Amba-Adventure-Thriller-Andrew-Hallman-ebook/dp/B09SHFZV92?maas=maas_adg_27D5D66814F78D333A34803EF3A8A5E5_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Amba-Adventure-Thriller-Andrew-Hallman-ebook/dp/B09SHFZV92?maas=maas_adg_27D5D66814F78D333A34803EF3A8A5E5_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "AMBA",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!2",
+      "imprint": "rep",
+      "imprint_mapping_attempt": {
+        "imprint": "rep",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "AMBA",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0BYWG4B55",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Force-Fear-Mystery-Thriller-Meredith-ebook/dp/B0BYWG4B55?maas=maas_adg_C58B99ABC5444172BA1ACDA468E0A2AB_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Force-Fear-Mystery-Thriller-Meredith-ebook/dp/B0BYWG4B55?maas=maas_adg_C58B99ABC5444172BA1ACDA468E0A2AB_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "By force or fear",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!3",
+      "imprint": "rep",
+      "imprint_mapping_attempt": {
+        "imprint": "rep",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "By force or fear",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DW6XZ2TT",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Dark-Justice-Crime-Thriller-Broken-ebook/dp/B0DW6XZ2TT?maas=maas_adg_F61257CF1F0C878615FF50B13134BA5D_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Dark-Justice-Crime-Thriller-Broken-ebook/dp/B0DW6XZ2TT?maas=maas_adg_F61257CF1F0C878615FF50B13134BA5D_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Dark Justice",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!4",
+      "imprint": "rep",
+      "imprint_mapping_attempt": {
+        "imprint": "rep",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Dark Justice",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0FWLFRQKZ",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Doormen-Complete-Jarrett-Mazza-ebook/dp/B0FWLFRQKZ?maas=maas_adg_3E01B6E664FB0DC427C38649F9A1392B_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Doormen-Complete-Jarrett-Mazza-ebook/dp/B0FWLFRQKZ?maas=maas_adg_3E01B6E664FB0DC427C38649F9A1392B_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "The Doormen: The Complete Series",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!5",
+      "imprint": "rep",
+      "imprint_mapping_attempt": {
+        "imprint": "rep",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "The Doormen: The Complete Series",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DKTZNT8S",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Callihan-Valley-Skulls-L-J-Martin-ebook/dp/B0DKTZNT8S?maas=maas_adg_A145EBECA9A602518F7E6E14F81BB0B8_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Callihan-Valley-Skulls-L-J-Martin-ebook/dp/B0DKTZNT8S?maas=maas_adg_A145EBECA9A602518F7E6E14F81BB0B8_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Callihan: Valley of Skulls",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!6",
+      "imprint": "wwb",
+      "imprint_mapping_attempt": {
+        "imprint": "wwb",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Callihan: Valley of Skulls",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0CHC2PP9B",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Rowdy-Complete-YA-Teen-Western-ebook/dp/B0CHC2PP9B?maas=maas_adg_E1C876875CC95DFD1E145DEA012C81D1_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Rowdy-Complete-YA-Teen-Western-ebook/dp/B0CHC2PP9B?maas=maas_adg_E1C876875CC95DFD1E145DEA012C81D1_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Rowdy: The Complete Series",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!7",
+      "imprint": "wwb",
+      "imprint_mapping_attempt": {
+        "imprint": "wwb",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Rowdy: The Complete Series",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0FRJWLT25",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Shrinking-Island-Novels-Mickey-Spillane-ebook/dp/B0FRJWLT25?maas=maas_adg_492758A9212807C619BBB5FC2FF2115B_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Shrinking-Island-Novels-Mickey-Spillane-ebook/dp/B0FRJWLT25?maas=maas_adg_492758A9212807C619BBB5FC2FF2115B_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "The Shrinking Island",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!8",
+      "imprint": "wwb",
+      "imprint_mapping_attempt": {
+        "imprint": "wwb",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "The Shrinking Island",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0FB8MNDJ8",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Gateways-Annihilation-Stories-Jarret-Keene/dp/B0FB8MNDJ8?maas=maas_adg_118508C18A711AED786BA63997C4283A_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Gateways-Annihilation-Stories-Jarret-Keene/dp/B0FB8MNDJ8?maas=maas_adg_118508C18A711AED786BA63997C4283A_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Gateways to Annihilation: Stories",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!9",
+      "imprint": "dwb",
+      "imprint_mapping_attempt": {
+        "imprint": "dwb",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Gateways to Annihilation: Stories",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0FH7MTJCL",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/All-Way-Under-Proximity-Military-ebook/dp/B0FH7MTJCL?maas=maas_adg_6784BC2789613BDD5DC5E112DD85FCA9_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/All-Way-Under-Proximity-Military-ebook/dp/B0FH7MTJCL?maas=maas_adg_6784BC2789613BDD5DC5E112DD85FCA9_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "All The Way Under",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!10",
+      "imprint": "lnbp",
+      "imprint_mapping_attempt": {
+        "imprint": "lnbp",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "All The Way Under",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0GJ123BX6",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Arabelles-Beast-Interracial-Fairytale-Romance-ebook/dp/B0GJ123BX6?maas=maas_adg_6864B6E7428ABF4D17E6C1E31163D0E2_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Arabelles-Beast-Interracial-Fairytale-Romance-ebook/dp/B0GJ123BX6?maas=maas_adg_6864B6E7428ABF4D17E6C1E31163D0E2_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Arabelle's Beast",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!11",
+      "imprint": "lnbp",
+      "imprint_mapping_attempt": {
+        "imprint": "lnbp",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Arabelle's Beast",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DQ96M71D",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Deal-Breakers-Second-Romantic-Dealing-ebook/dp/B0DQ96M71D?maas=maas_adg_1BFD5D43E127472D07DED1C65B706010_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Deal-Breakers-Second-Romantic-Dealing-ebook/dp/B0DQ96M71D?maas=maas_adg_1BFD5D43E127472D07DED1C65B706010_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Deal Breakers",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!12",
+      "imprint": "lnbp",
+      "imprint_mapping_attempt": {
+        "imprint": "lnbp",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Deal Breakers",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DHYYJFQQ",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Demon-Hunter-Complete-Christian-Thriller-ebook/dp/B0DHYYJFQQ?maas=maas_adg_AED1E31262AA1B023F8B6B02420C734D_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Demon-Hunter-Complete-Christian-Thriller-ebook/dp/B0DHYYJFQQ?maas=maas_adg_AED1E31262AA1B023F8B6B02420C734D_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Demon Hunter: The Complete Series",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!13",
+      "imprint": "ckn",
+      "imprint_mapping_attempt": {
+        "imprint": "ckn",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Demon Hunter: The Complete Series",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B08SGQC2CC",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Matt-Bannister-Books-Ken-Pratt-ebook/dp/B08SGQC2CC?maas=maas_adg_7092C0734CF636EFC917E99D0C13941C_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Matt-Bannister-Books-Ken-Pratt-ebook/dp/B08SGQC2CC?maas=maas_adg_7092C0734CF636EFC917E99D0C13941C_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Matt Bannister: Books 1-9",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!14",
+      "imprint": "ckn",
+      "imprint_mapping_attempt": {
+        "imprint": "ckn",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Matt Bannister: Books 1-9",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0CLQGS9BL",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Athena-Unleashed-Science-Thriller-Trilogy-ebook/dp/B0CLQGS9BL?maas=maas_adg_FC211DCA09C6BB34D42E39C819680AC5_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Athena-Unleashed-Science-Thriller-Trilogy-ebook/dp/B0CLQGS9BL?maas=maas_adg_FC211DCA09C6BB34D42E39C819680AC5_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Athena Unleashed",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!15",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Athena Unleashed",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B086N3C57W",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Repairman-Complete-L-J-Martin-ebook/dp/B086N3C57W?maas=maas_adg_C73E2E4C62AB7BDC31A85E383B1B0A41_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Repairman-Complete-L-J-Martin-ebook/dp/B086N3C57W?maas=maas_adg_C73E2E4C62AB7BDC31A85E383B1B0A41_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "The Repairman: The Complete Series",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!16",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "The Repairman: The Complete Series",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DGGMF4DX",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Epic-Adventures-One-Adventure-Collection-ebook/dp/B0DGGMF4DX?maas=maas_adg_F5F1B8100D96A1BFB9E1C4B64E29014B_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Epic-Adventures-One-Adventure-Collection-ebook/dp/B0DGGMF4DX?maas=maas_adg_F5F1B8100D96A1BFB9E1C4B64E29014B_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Epic Adventures: Volume 1",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!17",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Epic Adventures: Volume 1",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DCHK6K5T",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Erik-Haraldsson-Warrior-Exploration-Yellow-ebook/dp/B0DCHK6K5T?maas=maas_adg_32EDEBB7F79F87F94D67F5EA9C464D62_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Erik-Haraldsson-Warrior-Exploration-Yellow-ebook/dp/B0DCHK6K5T?maas=maas_adg_32EDEBB7F79F87F94D67F5EA9C464D62_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Erik Haraldsson",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!18",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Erik Haraldsson",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0BQNF7LGR",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Gunslinger-Complete-Adventure-W-Hart-ebook/dp/B0BQNF7LGR?maas=maas_adg_2C131023422071A137EAAA1A0BB664A9_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Gunslinger-Complete-Adventure-W-Hart-ebook/dp/B0BQNF7LGR?maas=maas_adg_2C131023422071A137EAAA1A0BB664A9_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Gunslinger: The Complete Series",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!19",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Gunslinger: The Complete Series",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DDDYBYVF",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Latigos-Choice-Taming-Historical-Western-ebook/dp/B0DDDYBYVF?maas=maas_adg_15A95576E344CB40AE4F77129B44EB02_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Latigos-Choice-Taming-Historical-Western-ebook/dp/B0DDDYBYVF?maas=maas_adg_15A95576E344CB40AE4F77129B44EB02_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Latigo's Chocie: Taming the West",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!20",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Latigo's Chocie: Taming the West",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0DQ97CD9F",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Lost-Canyon-Delaine-Western-Mystery-ebook/dp/B0DQ97CD9F?maas=maas_adg_D8C096618ADF7D67EDD28D66567F41EC_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Lost-Canyon-Delaine-Western-Mystery-ebook/dp/B0DQ97CD9F?maas=maas_adg_D8C096618ADF7D67EDD28D66567F41EC_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Lost Canyon",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!21",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Lost Canyon",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0CV4D8QLK",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/McCain-Complete-Western-Chronicles-ebook/dp/B0CV4D8QLK?maas=maas_adg_7D2AB1CA3C83873512B36FE4AC7AFF3C_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/McCain-Complete-Western-Chronicles-ebook/dp/B0CV4D8QLK?maas=maas_adg_7D2AB1CA3C83873512B36FE4AC7AFF3C_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "McCain: The Complete Series",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!22",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "McCain: The Complete Series",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    },
+    {
+      "asin_resolution_attempt": {
+        "asin": "B0F7CKGQV6",
+        "matched": true,
+        "source": "spreadsheet.ASIN",
+        "source_url": "https://www.amazon.com/Pathfinder-Western-Double-Johnson-Mountain-ebook/dp/B0F7CKGQV6?maas=maas_adg_319B3B881E27641EA11FDCDFD9A73ABC_afap_abs&ref_=aa_maas&tag=maas"
+      },
+      "attribution_match_attempt": {
+        "attempted": true,
+        "attribution_url": "https://www.amazon.com/Pathfinder-Western-Double-Johnson-Mountain-ebook/dp/B0F7CKGQV6?maas=maas_adg_319B3B881E27641EA11FDCDFD9A73ABC_afap_abs&ref_=aa_maas&tag=maas",
+        "matched": true,
+        "source": "spreadsheet.Attritubtionn Tag"
+      },
+      "clean_title": "Pathfinder",
+      "date": "2026-05-13",
+      "deal_price": "$0.99",
+      "drop_detail": "",
+      "drop_reason": null,
+      "event_id": "KCD!23",
+      "imprint": "wolfpack",
+      "imprint_mapping_attempt": {
+        "imprint": "wolfpack",
+        "matched": true,
+        "matched_subcalendar_id": null,
+        "source": "spreadsheet.Publisher"
+      },
+      "price_source": "spreadsheet",
+      "raw_event_title": "Pathfinder",
+      "rendered": true,
+      "structured_deal_price": "$0.99",
+      "structured_price_malformed": null,
+      "structured_price_present": true,
+      "structured_price_status": "valid",
+      "subcalendar_ids": []
+    }
+  ],
+  "rendered_book_count": 22,
+  "rendered_book_count_by_imprint": {
+    "ckn": 2,
+    "dwb": 1,
+    "lnbp": 3,
+    "rep": 4,
+    "wolfpack": 9,
+    "wwb": 3
+  },
+  "schema": "wolfpack.kcd.inventory_reconciliation.v1",
+  "source_event_count": 22,
+  "spreadsheet": {
+    "empty_response": false,
+    "fetch_error": null,
+    "path": "data/wolfpack/kcd_spreadsheets/2026-05-13.xlsx",
+    "reachable": true
+  },
+  "teamup": {
+    "empty_response": false,
+    "fetch_error": null,
+    "reachable": true
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "files": {
+    "ckn_kcd.html": [
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "IMPRINTS.ckn.blurb_html anchor 1",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "kcd.html weekly deals block",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://cknchristianpublishing.com",
+        "source": "IMPRINTS.ckn.website -> imprint_website",
+        "url": "https://cknchristianpublishing.com"
+      },
+      {
+        "normalized_url": "https://facebook.com/CKNChristianPublishing",
+        "source": "IMPRINTS.ckn.facebook -> imprint_facebook",
+        "url": "https://facebook.com/CKNChristianPublishing"
+      },
+      {
+        "normalized_url": "https://instagram.com/cknpublishing/",
+        "source": "IMPRINTS.ckn.instagram -> imprint_instagram",
+        "url": "https://instagram.com/cknpublishing/"
+      }
+    ],
+    "dwb_kcd.html": [
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "IMPRINTS.dwb.blurb_html anchor 1",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "kcd.html weekly deals block",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://darkwolfbooks.com",
+        "source": "IMPRINTS.dwb.website -> imprint_website",
+        "url": "https://darkwolfbooks.com"
+      },
+      {
+        "normalized_url": "https://facebook.com/DarkWolfBks",
+        "source": "IMPRINTS.dwb.facebook -> imprint_facebook",
+        "url": "https://facebook.com/DarkWolfBks"
+      },
+      {
+        "normalized_url": "https://instagram.com/darkwolfbks",
+        "source": "IMPRINTS.dwb.instagram -> imprint_instagram",
+        "url": "https://instagram.com/darkwolfbks"
+      }
+    ],
+    "lnbp_kcd.html": [
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "IMPRINTS.lnbp.blurb_html anchor 1",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "kcd.html weekly deals block",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://lovenbookspress.com",
+        "source": "IMPRINTS.lnbp.website -> imprint_website",
+        "url": "https://lovenbookspress.com"
+      },
+      {
+        "normalized_url": "https://facebook.com/lovenbookspress",
+        "source": "IMPRINTS.lnbp.facebook -> imprint_facebook",
+        "url": "https://facebook.com/lovenbookspress"
+      },
+      {
+        "normalized_url": "https://instagram.com/lovenbookspress/",
+        "source": "IMPRINTS.lnbp.instagram -> imprint_instagram",
+        "url": "https://instagram.com/lovenbookspress/"
+      }
+    ],
+    "rep_kcd.html": [
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "IMPRINTS.rep.blurb_html anchor 1",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "kcd.html weekly deals block",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://roughedgespress.com",
+        "source": "IMPRINTS.rep.website -> imprint_website",
+        "url": "https://roughedgespress.com"
+      },
+      {
+        "normalized_url": "https://facebook.com/RoughEdgesPress",
+        "source": "IMPRINTS.rep.facebook -> imprint_facebook",
+        "url": "https://facebook.com/RoughEdgesPress"
+      },
+      {
+        "normalized_url": "https://instagram.com/roughedgespress",
+        "source": "IMPRINTS.rep.instagram -> imprint_instagram",
+        "url": "https://instagram.com/roughedgespress"
+      }
+    ],
+    "wolfpack_kcd.html": [
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "IMPRINTS.wolfpack.blurb_html anchor 1",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "kcd.html weekly deals block",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com",
+        "source": "IMPRINTS.wolfpack.website -> imprint_website",
+        "url": "https://wolfpackpublishing.com"
+      },
+      {
+        "normalized_url": "https://facebook.com/WolfpackPub",
+        "source": "IMPRINTS.wolfpack.facebook -> imprint_facebook",
+        "url": "https://facebook.com/WolfpackPub"
+      },
+      {
+        "normalized_url": "https://instagram.com/wolfpack.publishing/",
+        "source": "IMPRINTS.wolfpack.instagram -> imprint_instagram",
+        "url": "https://instagram.com/wolfpack.publishing/"
+      }
+    ],
+    "wwb_kcd.html": [
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "IMPRINTS.wwb.blurb_html anchor 1",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts",
+        "source": "kcd.html weekly deals block",
+        "url": "https://wolfpackpublishing.com/collections/weekly-deals-and-discounts"
+      },
+      {
+        "normalized_url": "https://wisewolfbooks.com",
+        "source": "IMPRINTS.wwb.website -> imprint_website",
+        "url": "https://wisewolfbooks.com"
+      },
+      {
+        "normalized_url": "https://facebook.com/wisewolf.wolfpack",
+        "source": "IMPRINTS.wwb.facebook -> imprint_facebook",
+        "url": "https://facebook.com/wisewolf.wolfpack"
+      },
+      {
+        "normalized_url": "https://instagram.com/wisewolfbooks/",
+        "source": "IMPRINTS.wwb.instagram -> imprint_instagram",
+        "url": "https://instagram.com/wisewolfbooks/"
+      }
+    ]
+  },
+  "generated_at": "2026-05-11T15:20:35.063928+00:00",
+  "promo_date": "2026-05-13",
+  "schema": "wolfpack.kcd.non_amazon_allowlist.v1",
+  "week": "2026-05-13-13book-dryrun"
+}

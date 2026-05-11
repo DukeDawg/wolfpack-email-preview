@@ -1,0 +1,138 @@
+{
+  "schema": "wolfpack.kcd.copy_generation.v1",
+  "date": "2026-05-13",
+  "scope": "13book-dryrun-non-wolfpack-imprint",
+  "entries": [
+    {
+      "asin": "B09SHFZV92",
+      "title": "AMBA",
+      "imprint": "rep",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 3637,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 267,
+      "human_edited": false
+    },
+    {
+      "asin": "B0BYWG4B55",
+      "title": "By Force or Fear",
+      "imprint": "rep",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 1210,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 278,
+      "human_edited": false
+    },
+    {
+      "asin": "B0DW6XZ2TT",
+      "title": "Dark Justice",
+      "imprint": "rep",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 4632,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 259,
+      "human_edited": false
+    },
+    {
+      "asin": "B0FWLFRQKZ",
+      "title": "The Doormen: The Complete Series",
+      "imprint": "rep",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 2378,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 279,
+      "human_edited": false
+    },
+    {
+      "asin": "B0DKTZNT8S",
+      "title": "Callihan: Valley of Skulls",
+      "imprint": "wwb",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 2660,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 234,
+      "human_edited": false
+    },
+    {
+      "asin": "B0CHC2PP9B",
+      "title": "Rowdy: The Complete Series",
+      "imprint": "wwb",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 2534,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 273,
+      "human_edited": false
+    },
+    {
+      "asin": "B0FRJWLT25",
+      "title": "The Shrinking Island",
+      "imprint": "wwb",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 1412,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 279,
+      "human_edited": false
+    },
+    {
+      "asin": "B0FB8MNDJ8",
+      "title": "Gateways to Annihilation: Stories",
+      "imprint": "dwb",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 4497,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 270,
+      "human_edited": false
+    },
+    {
+      "asin": "B0FH7MTJCL",
+      "title": "All The Way Under",
+      "imprint": "lnbp",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 2205,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 272,
+      "human_edited": false
+    },
+    {
+      "asin": "B0GJ123BX6",
+      "title": "Arabelle's Beast",
+      "imprint": "lnbp",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 1947,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 279,
+      "human_edited": false
+    },
+    {
+      "asin": "B0DQ96M71D",
+      "title": "Deal Breakers",
+      "imprint": "lnbp",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 2348,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 255,
+      "human_edited": false
+    },
+    {
+      "asin": "B0DHYYJFQQ",
+      "title": "Demon Hunter: The Complete Series",
+      "imprint": "ckn",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 1260,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 282,
+      "human_edited": false
+    },
+    {
+      "asin": "B08SGQC2CC",
+      "title": "Matt Bannister: Books 1-9",
+      "imprint": "ckn",
+      "blurb_source": "kcd_source_blurbs.json",
+      "blurb_chars": 1049,
+      "copy_source": "freshly_written_human:vee",
+      "char_count": 263,
+      "human_edited": false
+    }
+  ],
+  "generated_at": "2026-05-10T01:24:22Z"
+}

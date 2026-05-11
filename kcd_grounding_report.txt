@@ -1,306 +1,893 @@
 KCD SOURCE-GROUNDING REPORT
 ==============================================================================
-Date: 2026-05-13
-Output dir: jessica-handover/wolfpack-email/output/2026-05-13-pilot
-Books evaluated: 9
-  pass=9  warn=0  fail=0
+Date: 
+Output dir: jessica-handover/wolfpack-email/output/2026-05-13-13book-dryrun
+Books evaluated: 13
+  pass=13  warn=0  fail=0
 
---- PASS :: B0CLQGS9BL :: Athena Unleashed ---
-Author: W. Michael Gear
-Source: https://wolfpackpublishing.com/products/athena-unleashed-a-science-thriller-the-athena-trilogy-book-1
-
-Source blurb:
-  Prepare to have your perspective on Hollywood, fame, and your own genetic makeup forever transformed by the fi
-  rst installment in The Athena Trilogy, a gripping series by
-  New York Times
-  bestselling author W. Michael Gear.
-  Sheela Marks, her new Oscar in hand, has just reached the peak of Hollywood fame, commanding a staggering thir
-  ty million dollars per film. Stalked by all, her safety depends on her bodyguard, Lymon Bridges.
-  When Sheela falls victim to a brutal assault in a New York hotel corridor, Bridges embarks on a relentless que
-  st for truth, joining forces with disgraced FBI agent Christal Anaya. But Sheela’s high-profile attack is just
-   the tip of the iceberg—other celebrities are being victimized in high-profile burglaries and attacks all acro
-  ss the country.
-  As Anaya and Bridges become embroiled in a high-stakes game of cat and mouse, their mysterious stalkers manipu
-  late them like pawns in a sinister plot. And a pivotal question looms: who or what is Genesis Athena?
-  Multi-layered and written with engaging wit and suspense, Athena Unleashed is an eerily compelling story of gr
-  eed, exploitation…and obsession. Don’t miss this enthralling journey into the depths of intrigue and mystery t
-  oday.
-
-Anchors extracted (13):
-  Hollywood, The Athena Trilogy, W. Michael Gear.
-Sheela Marks, Oscar, Lymon Bridges.
-When Sheela, New York, Bridges, FBI, Christal Anaya. But Sheela, As Anaya and Bridges, Genesis Athena, Multi-layered, Don
-
-Generated copy:
-  When Hollywood superstar Sheela Marks is brutally attacked in a New York hotel, bodyguard Lymon Bridges teams 
-  with disgraced FBI agent Christal Anaya to chase the truth. What they uncover reaches deeper than fame—and a n
-  ame keeps surfacing: Genesis Athena. From W. Michael Gear.
-
-Anchors matched in copy (5):
-  Hollywood, New York, Bridges, FBI, Genesis Athena
-
---- PASS :: B086N3C57W :: The Repairman: The Complete Series ---
-Author: L.J. Martin
-Source: https://wolfpackpublishing.com/products/the-repairman-the-complete-series
+--- PASS :: B09SHFZV92 :: AMBA ---
+Author: Andrew Hallman
+Source: gdrive://1nz48sQSyMj9nNrsnAa8DTFpNxkdk2G-9/Book Blurb -- AMBA by Andrew Hallman.docx
 
 Source blurb:
-  ACCLAIMED ACTION ADVENTURE WRITER L.J. MARTIN BRINGS YOU ON TEN EXHILARATING ESCAPADES IN THE REPAIRMAN: THE C
-  OMPLETE SERIES.
-  Got a problem? Mike Reardon, the repairman, can fix it. As a Marine, Mike Reardon, was taught to search and de
-  stroy, now he has to do what he knows best.
-  The repairman and his crew travel the world with the goal of solving the biggest and toughest problems. They a
-  lways have their work cut out for them, but the most important goal is staying alive!
-  “The action and adventure rivals the best of Tom Clancy.”
-  –
-  Award-winning author, Robert Vaughan
-  The Repairman: The Complete Series includes The Repairman; The Bakken; G5, Gee Whiz; Who’s on Top?; Target Shy
-   & Sexy; Judge, Jury, Desert Fury; No Good Deed; Overflow; The K Factor; The Blue Pearl.
+  AMBA
+  
+  Book Blurb
+  
+  THE DEADLIEST PREDATOR ALIVE HAS TWO LEGS IN THIS STRIPPED-DOWN STRUGGLE FOR SURVIVAL—A THRILLER WITH HEART.
+  
+  Primorsky Krai—a remote wilderness in the Russian Far East encompassed by endless hills, vast forests, and lon
+  g winters that bury the land in snow and silence. This is the last place in the world where Siberian tigers—ot
+  herwise known as AMBA to the indigenous Udege people—prowl in the wild.
+  
+  Ex Elite Russian Special Forces Sniper Yuri Kaskilev has found home in the twelve-man Anti-Poaching Brigade in
+   Primorsky Krai. Protecting the area’s great cats has given him a sense of purpose he’s never known before.
+  
+  But when Yuri rescues two tiger cubs from their dying mother, he unleashes an unforeseen chain of events. As h
+  e and his partner rush the wriggling cubs to scientists at a nearby nature reserve, they come across three poa
+  chers heading to inspect their traps, and Yuri is startled to recognize one of them as a former comrade.
+  
+  Suddenly, the violent world Yuri thought he left behind is closer than ever…
+  
+  Until he meets Dr. Miko Katanabe, one of the world’s leading tiger experts. As she attempts the unthinkable—tr
+  aining the motherless cubs and introducing them into the wild upon maturity—it becomes apparent that she may h
+  ave found a way to bolster the jungle cats’ dwindling population. So, when one of the cubs escapes into the su
+  rrounding wild, Yuri and Miko chase after it in a desperate pursuit.
+  
+  Along the way, these two proud and fiercely independent individuals must learn to work together to track the f
+  rightened cub while also surviving a night in sub-zero elements and fending off vicious attacks by a rogue tig
+  er following their trail.
+  
+  Will Yuri discover the middle ground between peace and violence in order to save all AMBA and the woman he has
+   come to love? Can Miko learn to trust Yuri and accept his violent past?
+  
+  Shortened:
+  
+  THE DEADLIEST PREDATOR ALIVE HAS TWO LEGS IN THIS STRIPPED-DOWN STRUGGLE FOR SURVIVAL—A THRILLER WITH HEART.
+  
+  Primorsky Krai, a remote wilderness in the Russian Far East encompassed by vast forests and long winters, is t
+  he last place in the world where Siberian tigers—otherwise known as AMBA to the indigenous Udege people—prowl 
+  in the wild.
+  
+  Ex Elite Russian Special Forces Sniper Yuri Kaskilev has found home in the twelve-man Anti-Poaching Brigade in
+   Primorsky Krai. Protecting the area’s great cats has given him a sense of purpose he’s never known before. Bu
+  t when Yuri rescues two tiger cubs from their dying mother and he and his partner rush the wriggling cubs to s
+  cientists at a nearby nature reserve, they come across three poachers heading to inspect their traps, and Yuri
+   is startled to recognize one of them as a former comrade.
+  
+  Suddenly, the violent world Yuri thought he left behind is closer than ever…
+  
+  Until he meets Dr. Miko Katanabe, one of the world’s leading tiger experts. As she attempts the unthinkable—tr
+  aining the motherless cubs and introducing them into the wild upon maturity—it becomes apparent that she may h
+  ave found a way to bolster the jungle cats’ dwindling population. So, when one of the cubs escapes into the su
+  rrounding wild, Yuri and Miko chase after it in a desperate pursuit. Along the way, these two proud and fierce
+  ly independent individuals must learn to work together to track the frightened cub while also surviving a nigh
+  t in sub-zero elements and fending off vicious attacks by a rogue tiger following their trail.
+  
+  Will Yuri discover the middle ground between peace and violence in order to save all AMBA and the woman he has
+   come to love? Can Miko learn to trust Yuri and accept his violent past?
 
 Anchors extracted (17):
-  THE COMPLETE SERIES.
-Got, Mike Reardon, Marine, Robert Vaughan
-The Repairman, The Bakken, G5, Gee Whiz, Top, Target Shy, Sexy, Judge, Jury, Desert Fury, No Good Deed, Overflow, The K Factor, The Blue Pearl
+  AMBA
+
+Book Blurb
+
+THE DEADLIEST PREDATOR ALIVE HAS TWO LEGS IN THIS STRIPPED-DOWN STRUGGLE FOR SURVIVAL, A THRILLER WITH HEART.
+
+Primorsky Krai, Russian Far East, Siberian, Udege, Ex Elite Russian Special Forces Sniper Yuri Kaskilev, Anti-Poaching Brigade, Primorsky Krai. Protecting, Yuri, Suddenly, Dr. Miko Katanabe, Yuri and Miko, Along, Will Yuri, Can Miko, Shortened, THE DEADLIEST PREDATOR ALIVE HAS TWO LEGS IN THIS STRIPPED-DOWN STRUGGLE FOR SURVIVAL
 
 Generated copy:
-  Mike Reardon is the man you call when the law can't help and the problem won't wait. Ex-Recon Marine, full ser
-  ies of jobs no one else will touch—Bakken oil-patch drug runners, hijacked aircraft, hostage extractions from 
-  places that don't show up on maps. By L.J. Martin.
-
-Anchors matched in copy (2):
-  Mike Reardon, Marine
-
---- PASS :: B0DGGMF4DX :: Epic Adventures: Volume 1 ---
-Author: Win Blevins
-Source: https://wolfpackpublishing.com/products/epic-adventures-volume-one-books-1-2
-
-Source blurb:
-  AN EPIC WESTERN ADVENTURE FULL OF UNFORGETTABLE CHARACTERS AND DEEPLY SPIRITUAL STORIES.
-  Nominee for the Pulitzer Prize and winner of the Spur Award,
-  Stone Song
-  follows the infamous Lakota Sioux mystic warrior, Crazy Horse. Ridiculed as a child for his white man looks, C
-  razy Horse seeks and receives a powerful vision that guides his destiny. Committed to fighting for his people,
-   he rejects traditional Lakota rewards and personal dreams to fulfill his vision as a mystic warrior. But haun
-  ted by his love for a woman and finding peace only in battle, can Crazy Horse harness the eternal wisdom of hi
-  s people to outmaneuver the U.S. Army at the historic Battle of the Little Bighorn?
-  RavenShadow
-  follows the journey of Joseph Blue Crow, an American Indian grappling with lost faith and seeking redemption. 
-  Chosen before birth to uphold the sacred Sioux traditions, Blue strays onto the white man’s path of basketball
-  , alcohol, and despair. Devastated by the loss of his heritage and the suicide of his beloved, Blue’s life spi
-  rals downward until he faces a life-or-death moment. Heeding his best friend’s advice, Blue embarks on a trans
-  formative journey. Guided by a shaman and a spirit bird, he confronts the painful history of Wounded Knee, sta
-  nding with his ancestors as they fall under attack.
-  Experience the profound journeys of two men whose lives are marked by visions, battles, and the enduring wisdo
-  m of their people. This classic Western collection will leave an indelible mark on your heart, all the while c
-  elebrating the resilient spirit of Native American heritage.
-  Epic Adventures: Volume One
-  includes
-  Stone Song
-  and
-  RavenShadow
-  .
-  “Blevins’ prose is razor sharp, his characters are clearly defined, and his heart, like so many, is at Wounded
-   Knee.”
-  —
-  Booklist
-
-Anchors extracted (18):
-  Stone Song, Lakota Sioux, Crazy Horse. Ridiculed, Crazy Horse, Lakota, U.S. Army, Battle, Little Bighorn, Joseph Blue Crow, American Indian, Chosen, Sioux, Blue, Wounded Knee, Western, Native American, Volume One, Stone Song
-and
-RavenShadow
-
-Generated copy:
-  Two novels from Win Blevins gathered as Epic Adventures: Volume 1. Stone Song carries Lakota mystic warrior Cr
-  azy Horse from a boyhood vision to the Battle of the Little Bighorn. RavenShadow walks Joseph Blue Crow back t
-  o Wounded Knee with his ancestors.
-
-Anchors matched in copy (8):
-  Stone Song, Crazy Horse, Lakota, Battle, Little Bighorn, Joseph Blue Crow, Blue, Wounded Knee
-
---- PASS :: B0DCHK6K5T :: Erik Haraldsson ---
-Author: Ron Briggs
-Source: https://wolfpackpublishing.com/products/erik-haraldsson-a-norse-warrior-exploration-series-yellow-hair-book-1
-
-Source blurb:
-  In a land of fierce traditions, one Norse warrior’s quest for a better future will test the limits of destiny.
-  In the harsh, unrelenting world of eleventh-century Norway, Erik Haraldsson strives to carve out his own path.
-   Repelled by his society’s wanton brutality, he is torn between following the Norse warrior tradition and seek
-  ing adventure in faraway lands.
-  As he moves into adulthood, Erik devises his own strategies for survival and guides his family as best he can.
-   But when an unexpected sighting leads him to a new life in an uncertain land, he faces a crucial decision tha
-  t could lead to unbridled success—or catastrophe. Desiring to make his world a better place, he forges ahead i
-  n battle and vows to slay the great ice bear.
-  Alongside vivid portrayals of an ancient, complicated land, Erik embarks on a journey of inward and outward ex
-  ploration, where he grows into the knowledge that even though his society may not be ready for his enlightened
-   ways, he can still remain steadfast in paving the way for a better future.
-  Embark on a timeless odyssey as a fierce warrior navigates the perilous currents of his destiny.
-  Will Erik Haraldsson’s courage and vision prevail against the forces of an unforgiving time? Order your copy o
-  f this adventure series today.
-  “
-  …brings America’s past alive with vibrant characters, intricate plotting, and an ever-increasing tempo.”
-  —W. Michael Gear,
-  New York Times
-  bestselling author
-
-Anchors extracted (5):
-  Norse, Norway, Will Erik Haraldsson, America, W. Michael Gear
-
-Generated copy:
-  Repelled by the brutality of his own people, 11th-century Norse warrior Erik Haraldsson sets out to build some
-  thing better—for himself, for his family, in lands no Northman has named. Ron Briggs's Yellow Hair Series carr
-  ies Erik from the fjords toward the mountains of a new world.
-
-Anchors matched in copy (1):
-  Norse
-
---- PASS :: B0BQNF7LGR :: Gunslinger: The Complete Series ---
-Author: A.W. Hart
-Source: https://wolfpackpublishing.com/products/gunslinger-the-complete-series-books-1-9
-
-Source blurb:
-  FROM THE AUTHOR OF THE FAST-PACED AVENGING ANGELS SERIES COMES A NEW KIND OF WESTERN HERO… Fourteen-year-old C
-  onnor Mack dreams of escape from abuse on an East Texas family spread and must take his twin sister Abby with 
-  him. When wanted man River Hicks rides in with bounty hunters on his trail, Connor kills for the first time an
-  d follows Hicks into a nine-book journey.
-
-Anchors extracted (7):
-  FROM THE AUTHOR OF THE FAST-PACED AVENGING ANGELS SERIES COMES A NEW KIND OF WESTERN HERO, Fourteen-year-old Connor Mack, East Texas, Abby, River Hicks, Connor, Hicks
-
-Generated copy:
-  Gunslinger: The Complete Series follows fourteen-year-old Connor Mack and his twin sister Abby as wanted gunma
-  n River Hicks gives them a violent chance to flee abuse. Nine A.W. Hart westerns of outlaws, bounty hunters, s
-  ecrets, and survival.
-
-Anchors matched in copy (5):
-  Fourteen-year-old Connor Mack, Abby, River Hicks, Connor, Hicks
-
---- PASS :: B0DDDYBYVF :: Latigo's Choice: Taming the West ---
-Author: Patrick Lindsay
-Source: https://wolfpackpublishing.com/products/latigos-choice-taming-the-west-latigo-book-1
-
-Source blurb:
-  In the heart of the American West, Latigo Smith stands at a crossroads that will define his destiny.
-  A deputy sheriff in Texas hill country, Latigo is beckoned by the call of his Colorado roots—a land now pulsat
-  ing with the fervent excitement of railroads carving through the wilderness and the glint of gold and silver d
-  iscoveries.
-  Upon his return, Colorado greets Latigo with more than the promise of adventure and fortune. Mysterious fragme
-  nts of his family’s history begin to surface, intertwined with the enigmatic presence of Joanna, a young woman
-   whose path he was destined to cross. And when highwaymen try to rob him, he routs the robbers, making an enem
-  y he’ll have to fight to the finish.
-  As Latigo delves deeper, he stumbles upon an extraordinary tale: whispers of black gold, unlike any other gold
-   or silver, heard by only a few in the lore of the West. This discovery propels him on a journey that blurs th
-  e lines between past and present, as he navigates a land filled with opportunities and secrets. What unfolds i
-  s a captivating story of life, love, and gun-blazing action across the American frontier.
-  Don’t miss out on this riveting Western tale of courage and discovery. Get your copy of
-  Latigo’s Choice: Taming the Frontier
-  today and embark on an unforgettable adventure in the untamed West!
-
-Anchors extracted (13):
-  American West, Latigo Smith, Texas, Latigo, Colorado, Mysterious, Joanna, As Latigo, West. This, American, Don, Western, Taming the Frontier
-
-Generated copy:
-  Deputy Latigo Smith leaves the Texas hills for boomtown Colorado—railroads, silver, and a family secret he mea
-  ns to dig up. An ambush makes him an enemy who never forgets. Then there's Joanna, and a whisper called black 
-  gold. First in Patrick Lindsay's Latigo series.
-
-Anchors matched in copy (5):
-  Latigo Smith, Texas, Latigo, Colorado, Joanna
-
---- PASS :: B0DQ97CD9F :: Lost Canyon ---
-Author: John D. Nesbitt
-Source: https://wolfpackpublishing.com/products/lost-canyon-a-jess-delaine-western-mystery-jess-delaine-book-1
-
-Source blurb:
-  In an unforgiving town, one cowboy seeks a fresh start…and finds himself entangled in a mystery that could cos
-  t him everything.
-  While working at the Silver Pine Ranch, Jess Delaine befriends Tom Caswell, a troubled ranch hand with secrets
-  . When the cowhand turns up dead, Delaine works to uncover the truth, digging into Caswell’s past and hearing 
-  whispers of illicit dealings and unsolved disappearances.
-  Teaming up with a local schoolteacher and a waitress from the Sweet Auburn Café, Delaine unravels a chilling s
-  cheme involving stolen cattle and human trafficking. His search leads him to a remote ranch in Lost Canyon, wh
-  ere he finds evidence—live and otherwise—that exposes the rumors running beneath the town's surface.
-  As Delaine fights to save the innocent and deliver justice to those victimized, he faces the complacency of a 
-  town steeped in corruption and fear. In a place where trust is scarce, he must ask himself: Can he unearth the
-   truth, or will he become the next name on a growing list of casualties?
-  Dive into the heart of Lost Canyon and follow Jess Delaine as he battles deception and Old West danger. Order 
-  your copy of this Western mystery today!
-  “Nesbitt demonstrates himself a skilled wrangler of detail and character.”
-  —
-  Publishers Weekly
-
-Anchors extracted (10):
-  Silver Pine Ranch, Jess Delaine, Tom Caswell, Delaine, Caswell, Teaming, Sweet Auburn Café, As Delaine, Old West, Western
-
-Generated copy:
-  Cowboy Jess Delaine takes a job at the Silver Pine Ranch looking for quiet—and gets a friend's murder, stolen 
-  cattle, and a town too scared to talk. With a schoolteacher and a waitress beside him, he rides for the canyon
-   where the answers are buried. John D. Nesbitt's series opener.
+  AMBA puts ex-Russian Special Forces sniper Yuri Kaskilev with an Anti-Poaching Brigade in Primorsky Krai. Resc
+  uing two Siberian tiger cubs collides his quiet new life with the violent one he thought he'd left behind. And
+  rew Hallman writes survival fiction with teeth.
 
 Anchors matched in copy (3):
-  Silver Pine Ranch, Jess Delaine, Delaine
+  Siberian, Anti-Poaching Brigade, Yuri
 
---- PASS :: B0CV4D8QLK :: McCain: The Complete Series ---
-Author: B.N. Rundell
-Source: https://wolfpackpublishing.com/products/mccain-the-complete-western-chronicles-books-1-8
+--- PASS :: B0BYWG4B55 :: By Force or Fear ---
+Author: Thonie Hevron
+Source: gdrive://16lXCUUo5Lbl4qXbvaJXyWmrzVwi1CkVc/Book Blurb -- By Force or Fear by Thonie Hevron.docx
 
 Source blurb:
-  In a sweeping saga of courage, sacrifice, and redemption, bestselling author B.N. Rundell presents the complet
-  e epic journey of Elijah McCain.
-  From the aftermath of the Civil War to the untamed frontiers of the West, follow McCain's relentless pursuit o
-  f a promise made to his dying wife—to find and bring home their twin sons, no matter the cost.
-  From the gold fields of Montana to the scorching deserts of California, McCain faces the perils of lawless lan
-  ds, ruthless outlaws, and vengeful natives, all while wrestling with the ghosts of his past and the uncertain 
-  future of a nation torn by war and greed. With each step closer to his sons, McCain discovers that the true me
-  asure of a man lies not in his victories, but in his unwavering commitment to honor and family.
-  Join Elijah McCain on an unforgettable journey through the heart of the Wild West, where every twist of fate b
-  rings him closer to an ultimate showdown of courage and destiny.
-  This complete Western collection includes
-  The Covenant
-  ,
-  Last Chance Gulch
-  ,
-  Bear Gulch
-  ,
-  Naches Trail
-  ,
-  Siskiyou Trail
-  ,
-  Emigrant Trail
-  ,
-  Washita
-  ,
-  and
-  Bridger Trail
-  .
+  By Force or Fear (Meredith Ryan Mystery, #1)
+  
+  Book Blurb
+  
+  The shocking end to a hostage situation brings Meredith Ryan, a courageous Sheriff’s Deputy, to the attention 
+  of a powerful young judge.
+  
+  As the magistrate’s obsession grows, he continues exercising his considerable influence, and Meredith is stuck
+   juggling the inner workings of her career—all the while tracking down a violent killer in the Sonoma wine cou
+  ntry.
+  
+  After losing almost everyone close to her, Meredith realizes that she must take a stand. Even if it costs her.
+   But as Meredith is finally closing in on the Sonoma murderer, she gets snared in a trap that she may not walk
+   out of alive.
+  
+  By Force or Fear is a police procedural thriller about a brave, young deputy who identifies and faces her enem
+  ies—both within herself and the real world.
+  
+  Amazon intro add-on:
+  
+  EXPERIENCE THE PULSE-POUNDING TENSION OF A HIGH-STAKES CAT-AND-MOUSE CHASE IN THIS ENTHRALLING POLICE PROCEDUR
+  AL THRILLER THAT KEEPS YOU GUESSING UNTIL THE VERY LAST PAGE.
+  
+  Amazon outro add-on:
+  
+  Unlock its gripping pages today and experience book one in a thrilling series readers can't put down!
+  
+  Cover tagline:
+  
+  Forged in danger, one deputy’s bravery goes beyond the badge
 
-Anchors extracted (18):
-  B.N. Rundell, Elijah McCain.
-From, Civil War, West, McCain's, Montana, California, Join Elijah McCain, Wild West, Western, The Covenant, Last Chance Gulch, Bear Gulch, Naches Trail, Siskiyou Trail, Emigrant Trail, Washita, Bridger Trail
+Anchors extracted (12):
+  Meredith Ryan Mystery, Book Blurb
+
+The, Meredith Ryan, Sheriff, Deputy, Meredith, Sonoma, Amazon, EXPERIENCE THE PULSE-POUNDING TENSION OF A HIGH-STAKES CAT-AND-MOUSE CHASE IN THIS ENTHRALLING POLICE PROCEDURAL THRILLER THAT KEEPS YOU GUESSING UNTIL THE VERY LAST PAGE.
+
+Amazon, Unlock, Cover, Forged
 
 Generated copy:
-  Elijah McCain rides out of the Civil War with one promise to keep: bring his twin sons home. The trail runs fr
-  om Montana gold camps to California desert—lawless country, ruthless men, the ghosts of the war he just left. 
-  Eight novels of B.N. Rundell's McCain saga.
+  By Force or Fear introduces Sheriff's Deputy Meredith Ryan, whose handling of a hostage standoff puts her in t
+  he crosshairs of an obsessed young judge — even as a violent killer stalks Sonoma wine country. Thonie Hevron'
+  s debut police procedural runs taut, personal, and earned.
 
 Anchors matched in copy (5):
-  B.N. Rundell, Civil War, McCain's, Montana, California
+  Meredith Ryan, Sheriff, Deputy, Meredith, Sonoma
 
---- PASS :: B0F7CKGQV6 :: Pathfinder ---
-Author: Ash Lingam
-Source: https://wolfpackpublishing.com/products/pathfinder-a-western-double-levi-johnson-mountain-man-scout-book-1
+--- PASS :: B0DW6XZ2TT :: Dark Justice ---
+Author: J.L. Hughes
+Source: gdrive://1x-nv5nA2U673jd9ViFT5E9tBUrgFcaq8/blurb -- Dark Justice.docx
 
 Source blurb:
-  He left Indiana with a rifle and a dream—now the mountains will decide his fate. Levi Beaver Johnson was born 
-  to the woods of southeastern Indiana, known as Trapper Boy and the best shot in the state. He leaves home for 
-  the frontier forts of Kansas and army scout work to earn his way into the Rockies. Includes Pathfinder and Rus
-  ty Steel.
+  Dark JusticeBroken Jade 1
+  
+  Book Blurb
+  
+  COVER COPY / WEBSITE / INGRAM LISTING
+  
+  A killer's vengeance revives buried secrets…proving some family ties are meant to be severed—by death.
+  
+  Haunted by the unsolved murder of her mother two decades ago, NYPD homicide detective Jade Carmichael is thrus
+  t into a chilling hunt for a serial killer known as “The Redeemer.” His gruesome methods and cryptic messages 
+  tie directly to the case that shattered her childhood in Shadow Hook, an eerie town in Upstate New York where 
+  secrets fester and justice falters.
+  
+  As The Redeemer targets high-profile victims with no apparent connection, he taunts Jade with clues about her 
+  mother’s killer—secrets that could unravel her team, the department, and the very town she’s sworn to protect.
+   With time running out, Jade must confront ghosts from her past while navigating the dangerous alliances withi
+  n her team: her loyal but enigmatic partner Kane, steadfast friend Jackson, a rising rookie detective, Amy, an
+  d the unsettling department shrink, Dr. Abraham Maxwell, whose knowledge may prove as deadly as it is valuable
+  .
+  
+  But The Redeemer is no ordinary predator. He’s a calculating artist of vengeance, delivering retribution in a 
+  way that blurs the line between justice and monstrosity. In a high-stakes game of cat and mouse, Jade will com
+  e face-to-face with truths she’s not ready to confront and a blood connection more horrifying than she could i
+  magine.
+  
+  Dark Justice, the first installment in the Broken Jade series, delivers an electrifying mix of psychological i
+  ntrigue, police procedural grit, and shocking twists. Perfect for fans of James Patterson’s Alex Cross, and A 
+  Killer In The Family, this thriller will grip you from the first page and haunt you long after the final twist
+  .
+  
+  AMAZON BLURB
+  
+  A killer's vengeance revives buried secrets…proving some family ties are meant to be severed—by death.
+  
+  Haunted by the unsolved murder of her mother two decades ago, NYPD homicide detective Jade Carmichael is thrus
+  t into a chilling hunt for a serial killer known as “The Redeemer.” His gruesome methods and cryptic messages 
+  tie directly to the case that shattered her childhood in Shadow Hook, an eerie town in Upstate New York where 
+  secrets fester and justice falters.
+  
+  As The Redeemer targets high-profile victims with no apparent connection, he taunts Jade with clues about her 
+  mother’s killer—secrets that could unravel her team, the department, and the very town she’s sworn to protect.
+   With time running out, Jade must confront ghosts from her past while navigating the dangerous alliances withi
+  n her team: her loyal but enigmatic partner Kane, steadfast friend Jackson, a rising rookie detective, Amy, an
+  d the unsettling department shrink, Dr. Abraham Maxwell, whose knowledge may prove as deadly as it is valuable
+  .
+  
+  But The Redeemer is no ordinary predator. He’s a calculating artist of vengeance, delivering retribution in a 
+  way that blurs the line between justice and monstrosity. In a high-stakes game of cat and mouse, Jade will com
+  e face-to-face with truths she’s not ready to confront and a blood connection more horrifying than she could i
+  magine.
+  
+  Dark Justice, the first installment in the Broken Jade series, delivers an electrifying mix of psychological i
+  ntrigue, police procedural grit, and shocking twists. Perfect for fans of James Patterson’s Alex Cross, and A 
+  Killer In The Family, this thriller will grip you from the first page and haunt you long after the final twist
+  .
+  
+  Dive into the darkness and uncover the truth—order your copy of Dark Justice today!
+  
+  COVER TAGLINE
+  
+  “Think homicide detectives don’t take their work home-think again. Unravelling this criminal entanglement will
+   leave you breathless.” –Heather Graham, New York Times Best Selling Thriller Author of the Krew of Hunters Se
+  ries
+  
+  PRAISE
+  
+  “Think homicide detectives don’t take their work home-think again. Unravelling this criminal entanglement will
+   leave you breathless.” –Heather Graham, New York Times Best Selling Thriller Author of the Krew of Hunters Se
+  ries
+  
+  “To paraphrase Brad Pitt’s character in the hit movie Seven, Ladies and Gentleman we have a Serial Killer!” – 
+  Jon Land, New York Times Best Selling Thriller Author and Author of the Caitlin Strong Series.
+  
+  “In DARK JUSTICE, a prolific serial killer’s methods echo the murder of homicide detective Jade Carmichael’s m
+  other, launching her into a relentless pursuit. This story will keep you on edge, up late, and haunt you long 
+  after the final dark twist.” –D.P .Lyle, award-winning author of the Jake Longly and Cain/Harper thriller seri
+  es and co-creator of the Outliers Writing University
 
-Anchors extracted (5):
-  Indiana, Levi Beaver Johnson, Trapper Boy, Kansas, Rockies. Includes Pathfinder and Rusty Steel
+Anchors extracted (39):
+  Dark JusticeBroken Jade, Book Blurb
+
+COVER COPY, WEBSITE, INGRAM LISTING
+
+A, NYPD, Jade Carmichael, The Redeemer, Shadow Hook, Upstate New York, As The Redeemer, Jade, Kane, Jackson, Amy, Dr. Abraham Maxwell, But The Redeemer, Broken Jade, Perfect, James Patterson, Alex Cross, A Killer In The Family, AMAZON BLURB
+
+A, COVER TAGLINE, Think, Unravelling, Heather Graham, Krew of Hunters Series
+
+PRAISE, Krew of Hunters Series, Brad Pitt, Ladies and Gentleman, Serial Killer, Jon Land, Caitlin Strong Series, In DARK JUSTICE, D.P, Lyle, Jake Longly and Cain, Harper, Outliers Writing University
 
 Generated copy:
-  Levi 'Beaver' Johnson grew up with a rifle and traps in the Indiana woods—now he's heading west to make himsel
-  f a mountain man. Army scout work funds the road, and the Rockies take what they want. Two-novel Western Doubl
-  e from Ash Lingam—Pathfinder and Rusty Steel.
+  Dark Justice opens the Broken Jade series with NYPD homicide detective Jade Carmichael chasing a serial killer
+   called The Redeemer — whose cryptic taunts tie back to her mother's unsolved murder in Shadow Hook. J.L. Hugh
+  es builds a procedural soaked in dread.
+
+Anchors matched in copy (7):
+  NYPD, Jade Carmichael, The Redeemer, Shadow Hook, Jade, Broken Jade, Serial Killer
+
+--- PASS :: B0FWLFRQKZ :: The Doormen: The Complete Series ---
+Author: Jarret Mazza
+Source: gdrive://1LlBQlc9GcLz1ID5NZn9uBo8Ae6i5GZH7/blurb -- doormen series.docx
+
+Source blurb:
+  The Doormen: The Complete Series
+  
+  Book blurb
+  
+  WEBSITE
+  
+  Welcome to the city that never sleeps—and where the night has its own code.
+  
+  When former Marine Jon Haze returns home from war, he’s not looking for trouble—he’s looking for purpose. But 
+  purpose finds him behind the velvet ropes of The Conquistador, Manhattan’s most exclusive nightclub, where the
+   line between order and chaos is guarded by the men who rule the doors: The Doormen.
+  
+  From the dark pulse of Queens to the glittering underworld of Manhattan’s nightlife, Jon’s journey is one of l
+  oyalty, redemption, and survival. As he rises through the ranks, he uncovers a web of corruption, betrayal, an
+  d power that stretches far beyond the club’s walls. When old enemies return and new threats emerge, Jon must d
+  ecide what kind of soldier he really is—one who follows orders, or one who writes his own.
+  
+  This gritty, adrenaline-fueled trilogy—Dawn of the Trade, Revenge of the Fallen Sons, and OverTaker Territory—
+  delivers nonstop action, moral complexity, and the raw pulse of New York after dark.
+  
+  Three books. One man’s war for redemption.
+  
+  AMAZON
+  
+  Welcome to the city that never sleeps—and where the night has its own code.
+  
+  When former Marine Jon Haze returns home from war, he’s not looking for trouble—he’s looking for purpose. But 
+  purpose finds him behind the velvet ropes of The Conquistador, Manhattan’s most exclusive nightclub, where the
+   line between order and chaos is guarded by the men who rule the doors: The Doormen.
+  
+  From the dark pulse of Queens to the glittering underworld of Manhattan’s nightlife, Jon’s journey is one of l
+  oyalty, redemption, and survival. As he rises through the ranks, he uncovers a web of corruption, betrayal, an
+  d power that stretches far beyond the club’s walls. When old enemies return and new threats emerge, Jon must d
+  ecide what kind of soldier he really is—one who follows orders, or one who writes his own.
+  
+  This gritty, adrenaline-fueled trilogy—Dawn of the Trade, Revenge of the Fallen Sons, and OverTaker Territory—
+  delivers nonstop action, moral complexity, and the raw pulse of New York after dark.
+  
+  Three books. One man’s war for redemption.
+  
+  Dive into The Doorman Trilogy today—and step behind the ropes into a world where honor isn’t earned with medal
+  s, but with blood. Order your copy now.
+  
+  TAGLINE
+  
+  The war may be over, but the battlefield just moved to Manhattan.
+
+Anchors extracted (17):
+  The Complete Series
+
+Book, WEBSITE
+
+Welcome, Marine Jon Haze, The Conquistador, Manhattan, The Doormen.
+
+From, Queens, Jon, Dawn, Trade, Revenge, Fallen Sons, OverTaker Territory, New York, AMAZON
+
+Welcome, The Doorman Trilogy, TAGLINE
+
+The
+
+Generated copy:
+  The Doormen: The Complete Series collects Jarret Mazza's trilogy of ex-Marine Jon Haze working the velvet rope
+  s at Manhattan's Conquistador nightclub — where order, loyalty, and corruption tangle from Queens to the glitt
+  ering after-dark city. Three books, one war for redemption.
+
+Anchors matched in copy (4):
+  Marine Jon Haze, Manhattan, Queens, Jon
+
+--- PASS :: B0DKTZNT8S :: Callihan: Valley of Skulls ---
+Author: L.J. Martin
+Source: gdrive://1MwE2BCwJ1DusLrm6F9DxOJa7twoqhAmv/blurb -- callihan valley of skulls.docx
+
+Source blurb:
+  Callihan: Valley of Skulls (Callihan 1)
+  
+  Book Blurb
+  
+  COVER COPY / WEBSITE / INGRAM LISTING
+  
+  From the author of the Two Thousand Grueling Miles series comes Callihan, A YA Western Adventure of Revenge an
+  d Redemption.
+  
+  Conn Donahey was ready to carve out a life worth fighting for. But in a single night, it all went up in flames
+  . His new wife—gone. His hard-earned fortune—stolen. Everything he loved—turned to dust. Now, only one thing d
+  rives him forward: hunting down the nine ruthless men who shattered his life.
+  
+  But this mission isn't for the faint of heart. Every mile Conn rides, every outlaw he faces, pushes him closer
+   to a deadly edge, testing whether he’s tough enough to see it through. As he rides deeper into the harsh vall
+  ey known as the “Valley of Skulls,” Conn has to decide—how much of himself is he willing to sacrifice for just
+  ice?
+  
+  Will Conn stop at nothing to avenge his loved ones? Or will the valley claim another lost soul?
+  
+  AMAZON BLURB
+  
+  From the author of the Two Thousand Grueling Miles series comes Callihan, A YA Western Adventure of Revenge an
+  d Redemption.
+  
+  Conn Donahey was ready to carve out a life worth fighting for. But in a single night, it all went up in flames
+  . His new wife—gone. His hard-earned fortune—stolen. Everything he loved—turned to dust. Now, only one thing d
+  rives him forward: hunting down the nine ruthless men who shattered his life.
+  
+  But this mission isn't for the faint of heart. Every mile Conn rides, every outlaw he faces, pushes him closer
+   to a deadly edge, testing whether he’s tough enough to see it through. As he rides deeper into the harsh vall
+  ey known as the “Valley of Skulls,” Conn has to decide—how much of himself is he willing to sacrifice for just
+  ice?
+  
+  Will Conn stop at nothing to avenge his loved ones? Or will the valley claim another lost soul?
+  
+  Perfect for fans of action-packed young adult westerns, Callihan: Valley of Skulls promises grit, vengeance, a
+  nd the relentless spirit of survival. Join Conn on his journey—order your copy today and ride into the heart o
+  f revenge!
+  
+  COVER TAGLINE
+  
+  Will Conn stop at nothing to avenge his loved ones…or will the valley claim another lost soul?
+  
+  PRAISE
+  
+  n/a
+  
+  Original blurb from Larry:Just when Conn Donahey thought he had the world by the tail and nothing could go wro
+  ng…everything did. His new wife was taken from him, the proceeds of years of work stolen, everything he held d
+  ear turned to dust. Only one thing kept him from ending it all…the nine lowlifes responsible. Maybe he’d rest 
+  in peace when they all roasted in Hell. But that would prove to be a hell of a row of stumps to remove. Was he
+   man enough? Could he live through the task?
+
+Anchors extracted (21):
+  Book Blurb
+
+COVER COPY, WEBSITE, INGRAM LISTING
+
+From, Two Thousand Grueling Miles, A YA Western Adventure of Revenge and Redemption.
+
+Conn Donahey, Everything, Every, Conn, Will Conn, AMAZON BLURB
+
+From, Perfect, Join Conn, COVER TAGLINE
+
+Will Conn, PRAISE, Original, Larry, Just, Conn Donahey, Only, Maybe, Hell. But
+
+Generated copy:
+  Callihan: Valley of Skulls follows Conn Donahey across the worst country a man can ride after a single night b
+  urns away his wife, his fortune, and his future. L.J. Martin's YA Western counts the cost of revenge nine outl
+  aws at a time.
 
 Anchors matched in copy (2):
-  Indiana, Levi Beaver Johnson
+  Conn, Conn Donahey
+
+--- PASS :: B0CHC2PP9B :: Rowdy: The Complete Series ---
+Author: Chris Mullen
+Source: gdrive://1HFoURG_g0cXOaQ6gbAF6ChT4x798T5285i-Pkpgmufc/Rowdy: The Complete Series blurb
+
+Source blurb:
+  ﻿Rowdy: The Complete Series
+  Book Blurb
+  
+  
+  
+  
+  From award-winning author Chris Mullen comes an explosively exciting coming-of-age western series. Immerse you
+  rself in this thrilling saga, filled with danger, redemption, and unbreakable bonds.
+  
+  
+  Rowdy: Wild and Mean, Sharp and Keen sets the stage for a riveting journey. Follow thirteen-year-old Rowdy, wh
+  o, after a tragic encounter with a merciless gang, finds himself adrift on the Mississippi River. Alone and de
+  termined, he embarks on a perilous quest, honing his skills and becoming the man his father envisioned. 
+  
+  
+  In the bonus short story, The Hunt, ride with Rowdy into the mountains as he and Roberson embark on a long-awa
+  ited hunting expedition.  Trekking deep in the rugged landscape, they soon find themselves stalked by an invis
+  ible terror lurking in the shadows. Faced with mounting dangers, they must make a harrowing choice in this riv
+  eting tale of suspense and survival.
+  
+  
+  In Rowdy: Redemption, a devastating fire sparks Rowdy's relentless pursuit of vengeance. Join him as he unrave
+  ls the mystery behind the Circle 'R' arson, seeking retribution for his fallen comrades. 
+  
+  
+  The heart-pounding adventure continues in Rowdy: Dead or Alive. Fleeing false accusations, Rowdy races against
+   time to elude capture and clear his name. Battling through adversity, he discovers unexpected allies and reun
+  ites with a familiar face from his past. However, his path is fraught with peril as old enemies resurface and 
+  a relentless bounty hunter tracks his every move. 
+  
+  
+  In Rowdy: Rescue, an enemy's ruthless act plunges Rowdy into a race against time. When his beloved friends Tho
+  mas and Anne Marie are kidnapped, he sets out on a dangerous pursuit through treacherous terrain. 
+  
+  
+  Witness the internal struggle between justice and revenge in Rowdy: To Catch a Killer. Rowdy finds himself tor
+  n when he joins a pursuit to capture cattle rustlers. However, when vengeance strikes close to home, he must c
+  onfront his conflicting emotions and decide the rightful course of action. 
+  
+  
+  The thrilling finale, Rowdy: Return, brings together all the lessons Rowdy has learned on his arduous journey.
+   Faced with a treacherous storm and a cunning gambler, Rowdy's pursuit takes an unexpected turn. Driven by lov
+  e and family bonds, Rowdy risks everything to find and save his brother. 
+  
+  
+  Join Rowdy as he navigates a world of peril and discovery, where survival, redemption, and love collide. Grab 
+  your copy today and immerse yourself in the gripping world of Rowdy!
+
+Anchors extracted (27):
+  The Complete Series
+Book Blurb
+
+
+
+
+From, Immerse, Wild and Mean, Sharp and Keen, Mississippi River. Alone, The Hunt, Roberson, Trekking, Faced, In Rowdy, Redemption, Rowdy's, Circle, R, Dead, Alive. Fleeing, Battling, However, Rescue, Thomas and Anne Marie, Witness, To Catch, Killer. Rowdy, Return, Driven, Join Rowdy, Grab
+
+Generated copy:
+  Rowdy: The Complete Series collects Chris Mullen's coming-of-age Western — a thirteen-year-old set adrift on t
+  he Mississippi after a gang murders his father, then growing into the man his father wanted, one fight at a ti
+  me. Seven entries, one long ride toward who he'll be.
+
+Anchors matched in copy (1):
+  R
+
+--- PASS :: B0FRJWLT25 :: The Shrinking Island ---
+Author: Mickey Spillane
+Source: gdrive://1NqkaEUnpUYfznFndNfxmka1JjsO3eEJk/Blurb -- The Shrinking Island.docx
+
+Source blurb:
+  The Shrinking Island
+  
+  Book Blurb
+  
+  An exciting trio of classic boy’s adventures from a recognized Grand Master in the mystery genre—Mickey Spilla
+  ne.
+  
+  In The Day the Sea Rolled Back, an inexplicable freak of nature rolls the sea back from the shores of the Cari
+  bbean Island of Peolle and allows Larry and Josh to search for the wreck of the Nantucket Belle and its suppos
+  ed hoard of Spanish treasure. But—unbeknownst to them—the boys are closely tracked by a pair of local fisherme
+  n who mean to take the treasure for themselves.
+  
+  During The Ship That Never Was, Larry and Josh task themselves with rescuing an ancient sailor adrift in a mys
+  terious longboat and find themselves involved in finding a lost island and restoring a missing heir to the thr
+  one of a kingdom.
+  
+  In The Shrinking Island, Larry and Josh embark on their most exciting adventure yet when they find themselves 
+  up against dangerous storms, a missing Spanish galleon, a gang of greedy salvage hunters, and a disappearing I
+  sland in a race against time to save the sacred land of their friend’s ancestors…
+  
+  Mickey Spillane is considered one of the greatest writers of the 20th Century for not only creating Mike Hamme
+  r—the toughest private eye of all time—but for many other hardboiled novels that turned a generation of well-m
+  annered mysteries on their head. In this collection, the adventures of Larry and Josh will thrill those seekin
+  g adventure…
+
+Anchors extracted (11):
+  The Shrinking Island
+
+Book Blurb
+
+An, Grand Master, Mickey Spillane.
+
+In The Day the Sea Rolled Back, Caribbean Island of Peolle, Larry and Josh, Nantucket Belle, Spanish, During The Ship That Never Was, In The Shrinking Island, Century, Mike Hammer
+
+Generated copy:
+  The Shrinking Island gathers three of Mickey Spillane's boy-adventure classics — Larry and Josh chasing a Span
+  ish galleon's treasure off Peolle, rescuing a sailor adrift in a longboat, and racing salvage hunters across v
+  anishing land. The Mike Hammer creator at his most playful.
+
+Anchors matched in copy (3):
+  Larry and Josh, Spanish, Mike Hammer
+
+--- PASS :: B0FB8MNDJ8 :: Gateways to Annihilation: Stories ---
+Author: Jarret Keene
+Source: gdrive://14LAUFgWJW7YWMeiEOoDilXVjaD3un46z/FBDF -- Gateways.docx
+
+Source blurb:
+  Gateways to Annihilation: StoriesBook Blurb
+  
+  COVER COPY / WEBSITE / INGRAM LISTING
+  
+  A cursed pizzeria. A haunted B-movie legacy. A tycoon’s final robotic companion.
+  
+  Welcome to Gateways to Annihilation—a searing collection of horror short stories that seamlessly fuses right-h
+  ere-and-right-now themes of war trauma, pandemic stress, religious terrorism, political extremism, cryptozoolo
+  gical mania, and the human hunger for a sudden cleansing apocalypse, while encouraging readers to reach for a 
+  bag of movie popcorn in the darkness of the night.
+  
+  Author Jarret Keene conjures 14 twisted tales where monsters lurk in neon shadows and infernal items hold live
+  s hostage. Whether it’s a Japanese war vet trapped inside Hollywood rubber suits, a Vegas comic shop owner sta
+  lked by satanic forces, or a billionaire’s android nurse with sinister protocols, each story spirals into the 
+  uncanny with razor precision. In this collection that melds the nostalgic eeriness of The Twilight Zone with t
+  he nihilistic bite of Black Mirror, victims and perpetrators dance in blood-spattered loops of fate. Perfect f
+  or fans of weird fiction and supernatural thrillers, Gateways to Annihilation is literary horror with a cult h
+  eart.
+  
+  Will these characters escape the horrors they summon—or are they already lost to the darkness within?
+  
+  AMAZON BLURB
+  
+  “Keene’s collection is quietly magnificent. I can think of few things better than spending your time reading h
+  is words.” –Mercedes M. Yardley, two-time Bram Stoker Award-Winner
+  
+  A cursed pizzeria. A haunted B-movie legacy. A tycoon’s final robotic companion.
+  
+  Welcome to Gateways to Annihilation—a searing collection of horror short stories that seamlessly fuses right-h
+  ere-and-right-now themes of war trauma, pandemic stress, religious terrorism, political extremism, cryptozoolo
+  gical mania, and the human hunger for a sudden cleansing apocalypse, while encouraging readers to reach for a 
+  bag of movie popcorn in the darkness of the night.
+  
+  Author Jarret Keene conjures 14 twisted tales where monsters lurk in neon shadows and infernal items hold live
+  s hostage. Whether it’s a Japanese war vet trapped inside Hollywood rubber suits, a Vegas comic shop owner sta
+  lked by satanic forces, or a billionaire’s android nurse with sinister protocols, each story spirals into the 
+  uncanny with razor precision. In this collection that melds the nostalgic eeriness of The Twilight Zone with t
+  he nihilistic bite of Black Mirror, victims and perpetrators dance in blood-spattered loops of fate. Perfect f
+  or fans of weird fiction and supernatural thrillers, Gateways to Annihilation is literary horror with a cult h
+  eart.
+  
+  Will these characters escape the horrors they summon—or are they already lost to the darkness within? Order yo
+  ur copy now to find out.
+  
+  COVER TAGLINE
+  
+  “Quietly magnificent.” –Mercedes M. Yardley, two-time Bram Stoker Award-Winner
+  
+  Original from author
+  
+  A short story collection that blurs the boundary between postmodern fantasy and genre revivalism, Jarret Keene
+  ’s Gateway to Annihilation filters iconic horror, dark fantasy, and crime-noir through the prism of the author
+  ’s vivid imagination. From a Japanese war vet turned suit actor trapped in Hollywood B-movies (“Son of Mogar”)
+   to Howard Hughes’ aides assembling a robot to care for the crumbling tycoon and to make their chores easier (
+  “Swanson”) to a 1990s Las Vegas pizzeria owner-cum-comics collector on the run from satanic forces (“Comic-Boo
+  k Hell”), the characters in these head-spinning, heart-pounding tales are at once victims and perpetrators in 
+  extreme scenarios in which the advent of the uncanny and otherworldly hinges on nothing more than mere spell c
+  ast, a knife toss, an atomic button-push.
+  
+  Published in outlets as diverse as New England Review and Neon Druid: An Anthology of Urban Celtic Fantasy, th
+  e 14 stories (70,000 words total) gathered in Gateway to Annihilation bring to mind the sinister-gaslight appe
+  al of Ambrose Bierce and Shirley Jackson, tinged with the haunted-neon impulse of contemporary Las Vegas. Insp
+  ired by old and new anthology series (Outer Limits and Twilight Zone meet Black Mirror and Guillermo Del Toro’
+  s Cabinet Curiosities), Keene’s Gateway to Annihilation seamlessly fuses right-here-and-right-now themes of wa
+  r trauma, pandemic stress, religious terrorism, political extremism, cryptozoological mania, and the human hun
+  ger for a sudden cleansing apocalypse, while encouraging readers to reach for a bag of movie popcorn in the da
+  rkness of the night.
+
+Anchors extracted (32):
+  StoriesBook Blurb
+
+COVER COPY, WEBSITE, INGRAM LISTING
+
+A, B-movie, Welcome, Author Jarret Keene, Whether, Japanese, Hollywood, Vegas, The Twilight Zone, Black Mirror, Perfect, AMAZON BLURB, Mercedes M. Yardley, COVER TAGLINE, Quietly, Gateway, Hollywood B-movies, Son of Mogar, Howard Hughes, Swanson, Las Vegas, Comic-Book Hell, Published, New England Review and Neon Druid, An Anthology of Urban Celtic Fantasy, Ambrose Bierce and Shirley Jackson, Las Vegas. Inspired, Outer Limits and Twilight Zone, Black Mirror and Guillermo Del Toro, Cabinet Curiosities
+
+Generated copy:
+  Gateways to Annihilation gathers 14 of Jarret Keene's twisted short stories — a cursed pizzeria, a haunted B-m
+  ovie legacy, a billionaire's android nurse with sinister protocols. Twilight Zone eeriness met by Black Mirror
+   nihilism, with literary horror at the cult heart.
+
+Anchors matched in copy (3):
+  B-movie, Black Mirror, Gateway
+
+--- PASS :: B0FH7MTJCL :: All The Way Under ---
+Author: Rachel Robinson
+Source: gdrive://1SyNQLJMz36-ODkFLuJkAfVshx_X-MmfFVQCoCBwlERQ/Book Blurb -- All The Way Under
+
+Source blurb:
+  ﻿Tab 1
+  All The Way Under
+  Book Blurb
+  
+  
+  COVER COPY / WEBSITE / INGRAM LISTING
+  She chased freedom, but danger and desire caught her first.
+  Saylor Wyndham has everything money can buy—except the freedom to chase her dream of sailing solo around the g
+  lobe. When her family and boyfriend call her ambitions reckless, she leaves them behind and sets sail alone, o
+  nly to be captured by ruthless pirates off the coast of South Africa.
+  Navy SEAL Brody McCoy’s mission is clear: infiltrate the pirate camp, rescue the hostage, and bring down the t
+  errorists without blowing his cover. To succeed, he has to pose as a captive himself, getting close to Saylor 
+  in ways that test his patience and his self-control.
+  Saylor thinks Brody is just another man trying to cage her spirit, while Brody sees her as a spoiled heiress w
+  ith no clue what real danger is. But as their risky escape plan unfolds, tension turns to heat, and one wrong 
+  move could cost them everything.
+  
+  
+  AMAZON BLURB 
+  
+  
+  She chased freedom, but danger and desire caught her first.
+  Saylor Wyndham has everything money can buy—except the freedom to chase her dream of sailing solo around the g
+  lobe. When her family and boyfriend call her ambitions reckless, she leaves them behind and sets sail alone, o
+  nly to be captured by ruthless pirates off the coast of South Africa.
+  Navy SEAL Brody McCoy’s mission is clear: infiltrate the pirate camp, rescue the hostage, and bring down the t
+  errorists without blowing his cover. To succeed, he has to pose as a captive himself, getting close to Saylor 
+  in ways that test his patience and his self-control.
+  Saylor thinks Brody is just another man trying to cage her spirit, while Brody sees her as a spoiled heiress w
+  ith no clue what real danger is. But as their risky escape plan unfolds, tension turns to heat, and one wrong 
+  move could cost them everything.
+  If you love forced proximity, enemies to lovers, military romance, and high-stakes adventure with a swoon-wort
+  hy protector and a guaranteed happily ever after, All The Way Under will leave you secretly wishing you could 
+  be trapped by pirates, too. Buy your copy now!
+  
+  
+  COVER TAGLINE
+  
+  
+  Sometimes the deepest love is forged in darkness.
+
+Anchors extracted (10):
+  Tab, All The Way Under
+Book Blurb
+
+
+COVER COPY, WEBSITE, INGRAM LISTING
+She, Saylor Wyndham, South Africa.
+Navy SEAL Brody McCoy, Saylor, Brody, AMAZON BLURB 
+
+
+She, COVER TAGLINE
+
+
+Sometimes
+
+Generated copy:
+  All The Way Under sends heiress Saylor Wyndham sailing solo and into the hands of pirates off South Africa — w
+  here Navy SEAL Brody McCoy goes undercover as a fellow captive to bring her out alive. Rachel Robinson writes 
+  forced-proximity, enemies-to-lovers with real teeth.
+
+Anchors matched in copy (3):
+  Saylor Wyndham, Saylor, Brody
+
+--- PASS :: B0GJ123BX6 :: Arabelle's Beast ---
+Author: Courtney Deran
+Source: gdrive://1Oq2YxnUh7a-Nx_vel-8UPqGn7QV45TQRIlTwuQk9_1U/Book Blurb -- Arabelle's Beast 
+
+Source blurb:
+  ﻿Tab 1
+  Arabelle's Beast
+  Book Blurb
+  
+  
+  COVER COPY / WEBSITE / INGRAM LISTING
+  
+  
+  Merciless, ruthless, and cruel, but nothing describes him better than Beast.
+  Arabelle Williamson was born to dance, not to barter her future. But when her father's business fails and a ru
+  thless businessman demands repayment, Arabelle agrees to the unthinkable: she’ll belong to Florian Larsson—on 
+  paper, in public, and in his house.
+  He says she’ll be his fiancée.
+  He means she’ll be his possession.
+  Florian is cold, calculating, and dangerously obsessed. Yet the more Arabelle pushes back, the deeper he pulls
+   her in. What began as a transaction becomes something far more twisted—and far more real. Obsession becomes l
+  ove, but revenge takes precedence over all else.
+  She’s his Beauty, and he’s her Beast.
+  But can they have a happily ever after?
+  
+  
+  
+  
+  AMAZON BLURB 
+  
+  
+  Merciless, ruthless, and cruel, but nothing describes him better than Beast.
+  Arabelle Williamson was born to dance, not to barter her future. But when her father's business fails, and a r
+  uthless businessman demands repayment, Arabelle agrees to the unthinkable: she’ll belong to Florian Larsson—on
+   paper, in public, and in his house.
+  He says she’ll be his fiancée.
+  He means she’ll be his possession.
+  Florian is cold, calculating, and dangerously obsessed. Yet the more Arabelle pushes back, the deeper he pulls
+   her in. What began as a transaction becomes something far more twisted—and far more real. Obsession becomes l
+  ove, but revenge takes precedence over all else.
+  She’s his Beauty, and he’s her Beast.
+  But can they have a happily ever after?
+  Arabelle’s Beast is a dark, addictive dark romance with a fairy-tale twist. If you love marriage-of-convenienc
+  e stakes, enemies-to-lovers tension, forced proximity, and obsession that turns into something far more danger
+  ous, this one’s for you.
+  
+  
+  COVER TAGLINE
+  
+  
+  Beauty was never meant to tame the beast—only to break him.
+
+Anchors extracted (13):
+  Tab, Arabelle's Beast
+Book Blurb
+
+
+COVER COPY, WEBSITE, INGRAM LISTING
+
+
+Merciless, Beast.
+Arabelle Williamson, Arabelle, Florian Larsson, Florian, Obsession, Beauty, Beast.
+But, AMAZON BLURB 
+
+
+Merciless, COVER TAGLINE
+
+
+Beauty
+
+Generated copy:
+  Arabelle's Beast trades a dancer's future for her father's debts when Arabelle Williamson agrees to belong to 
+  Florian Larsson — fiancée on paper, possession in fact. Courtney Deran's dark romance bends a Beauty-and-the-B
+  east fairy-tale into obsession that turns dangerously real.
+
+Anchors matched in copy (5):
+  Arabelle, Florian Larsson, Florian, Obsession, Beauty
+
+--- PASS :: B0DQ96M71D :: Deal Breakers ---
+Author: Laura Lee
+Source: gdrive://1pIzLbO197J3sVyV0ZfPOxvD82aze7sq2/Book Blurb -- Deal Breakers.docx
+
+Source blurb:
+  Deal Breakers
+  
+  (Dealing with Love 1)
+  
+  Book Blurb
+  
+  COVER COPY / WEBSITE / INGRAM LISTING
+  
+  What happens when one steamy night turns into the surprise of a lifetime?
+  
+  Riley McIntyre thought it’d be simple—a one-time thing, then he and Devyn Summers would go back to being best 
+  friends. He couldn’t have been more wrong. Years have gone by, and every day without her has been a constant r
+  eminder of how badly he messed up. Now he’s back, ready to prove he’s changed and to fight for the only girl h
+  e’s ever loved. But Devyn’s been sitting on a secret that could change everything.
+  
+  Riley stormed back into Devyn’s life just when she thought she’d finally moved on. He was her best friend, her
+   everything—until he left without a word. She’s tried to forget him and build a life that didn’t include the b
+  oy who broke her heart. Now, he’s back, saying he’s ready to be the man she always believed he could be. But t
+  rusting him again might be the biggest risk she’s ever taken. Can she open her heart to him once more, or is t
+  his one deal that’s just too broken?
+  
+  AMAZON BLURB
+  
+  What happens when one steamy night turns into the surprise of a lifetime?
+  
+  Riley McIntyre thought it’d be simple—a one-time thing, then he and Devyn Summers would go back to being best 
+  friends. He couldn’t have been more wrong. Years have gone by, and every day without her has been a constant r
+  eminder of how badly he messed up. Now he’s back, ready to prove he’s changed and to fight for the only girl h
+  e’s ever loved. But Devyn’s been sitting on a secret that could change everything.
+  
+  Riley stormed back into Devyn’s life just when she thought she’d finally moved on. He was her best friend, her
+   everything—until he left without a word. She’s tried to forget him and build a life that didn’t include the b
+  oy who broke her heart. Now, he’s back, saying he’s ready to be the man she always believed he could be. But t
+  rusting him again might be the biggest risk she’s ever taken. Can she open her heart to him once more, or is t
+  his one deal that’s just too broken?
+  
+  Deal Breakers is a hot and hilarious best-friends-to-lovers romantic comedy, filled with second-chance romance
+  , a surprise twist, and laugh-out-loud moments. Each installment in the Dealing with Love series can be read a
+  s a standalone.
+  
+  COVER TAGLINE
+  
+  Love is complicated, especially when it’s your best friend.
+
+Anchors extracted (14):
+  Dealing, Love, Book Blurb
+
+COVER COPY, WEBSITE, INGRAM LISTING
+
+What, Riley McIntyre, Devyn Summers, Years, But Devyn, Riley, Devyn, AMAZON BLURB
+
+What, Each, COVER TAGLINE
+
+Love
+
+Generated copy:
+  Deal Breakers opens Laura Lee's Dealing with Love series — Riley McIntyre walking back into Devyn Summers' lif
+  e years after one steamy night cracked their best-friendship in half. A second-chance romcom with a secret big
+   enough to redraw both their lives.
+
+Anchors matched in copy (7):
+  Dealing, Love, Riley McIntyre, Devyn Summers, Years, Riley, Devyn
+
+--- PASS :: B0DHYYJFQQ :: Demon Hunter: The Complete Series ---
+Author: Kerry Adcock
+Source: gdrive://1i80HSjBTNcVA3Fi2SWnW8RY-vUTlJ3xE/Book Blurb -- Demon Hunter The Complete Series.docx
+
+Source blurb:
+  Demon Hunter: The Complete Series
+  
+  Book Blurb
+  
+  PAPERBACK / INGRAM / WEBSITE
+  
+  N/A e-book only
+  
+  AMAZON
+  
+  Prepare for an epic battle between good and evil.Former covert ops Major Jacob “Jake” Taft thought his days of
+   war were over—until an ancient demon emerges from the shadows, threatening to unravel the world as he knows i
+  t. What begins as strange occurrences on Jake’s ranch quickly escalates into a global crisis when the Presiden
+  t’s daughter is kidnapped, and a sinister plan to resurrect history's darkest villain unfolds.As the world tee
+  ters on the brink of chaos, Jake and a team of elite warriors are thrust into a relentless pursuit across cont
+  inents. From the ruins of Berlin to the icy landscapes of Antarctica, they must confront supernatural forces, 
+  mutant abominations, and the ultimate evil—a hybrid clone born from humanity’s worst nightmares.In this high-s
+  takes Christian thriller collection, the battle for humanity’s survival rages on with intense action, military
+   tactics, and supernatural warfare. Will Jake and his allies prevent the apocalypse, or will the world be cons
+  umed by Hell on Earth? Dive into this explosive box set that will keep you on the edge of your seat until the 
+  very last page.
+  
+  COVER TAGLINE
+  
+  An ancient evil is rising.
+
+Anchors extracted (16):
+  The Complete Series
+
+Book Blurb
+
+PAPERBACK, INGRAM, WEBSITE
+
+N, AMAZON
+
+Prepare, Former, Major Jacob, Jake, Taft, President, Berlin, Antarctica, Christian, Will Jake, Hell, Earth, COVER TAGLINE
+
+An
+
+Generated copy:
+  Demon Hunter: The Complete Series gathers Kerry Adcock's Christian thriller box set — covert-ops Major Jake Ta
+  ft pulled out of retirement when an ancient demon stirs, the President's daughter is taken, and a hybrid clone
+   of history's worst evil starts walking. Berlin to Antarctica.
+
+Anchors matched in copy (6):
+  Jake, Taft, President, Berlin, Antarctica, Christian
+
+--- PASS :: B08SGQC2CC :: Matt Bannister: Books 1-9 ---
+Author: Ken Pratt
+Source: gdrive://1lhE_enp3Fc_ARUYtbMe2ttdY5-39giqd/Book Blurb -- Matt Bannister Books 1-9.docx
+
+Source blurb:
+  A BREWING STORM RUNS DEEPER THAN PRIDE OR HONOR IN THIS CHRISTIAN WESTERN MYSTERY COLLECTION.Fifteen years ago
+  , the young Matt Bannister ran away from the town of Willow Falls. Now a famed US Deputy Marshal, he’s coming 
+  home to reconcile with family.
+  
+  But all too quickly, he realizes that old feuds unsettled never die—and he must confront his painful past. Goo
+  d thing Matt is a fighter, a killer, and a tough man who isn’t afraid to stand his ground against anyone.
+  
+  As the tempest of the past collides with the present, Matt encounters religious persecution, murder, kidnappin
+  g, and lies—and his unyielding spirit becomes the beacon of redemption in a world haunted by shadows.Join Matt
+   Bannister on a relentless quest for redemption as he faces a storm of secrets and danger in this gripping nin
+  e-book Christian Western mystery collection today!Matt Bannister: Books 1-9 includes Willow Falls, Sweethome, 
+  Bella's Dance Hall, The Wolves of Windsor Ridge, The Eckman Exception, Prairieville, Return to Willow Falls, B
+  allenger, and Blood Vengeance.
+
+Anchors extracted (15):
+  A BREWING STORM RUNS DEEPER THAN PRIDE OR HONOR IN THIS CHRISTIAN WESTERN MYSTERY COLLECTION.Fifteen, Willow Falls. Now, US Deputy Marshal, Good, Join Matt Bannister, Christian Western, Willow Falls, Sweethome, Bella's Dance Hall, The Wolves of Windsor Ridge, The Eckman Exception, Prairieville, Return, Ballenger, Blood Vengeance
+
+Generated copy:
+  Matt Bannister: Books 1-9 collects Ken Pratt's Christian Western mystery saga — US Deputy Marshal Matt Bannist
+  er returning to Willow Falls fifteen years after he ran, finding old feuds that never died and a town still re
+  ady to test what kind of fighter he became.
+
+Anchors matched in copy (4):
+  US Deputy Marshal, Christian Western, Willow Falls, Return

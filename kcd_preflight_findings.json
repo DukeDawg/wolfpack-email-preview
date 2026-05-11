@@ -1,0 +1,13 @@
+{
+  "schema": "wolfpack.kcd.preflight_findings.v1",
+  "date": "2026-05-13",
+  "scope": "22book-dryrun-all-imprints",
+  "findings": [],
+  "counts": {
+    "total": 0,
+    "halt": 0,
+    "warn": 0,
+    "off": 0
+  },
+  "errors": []
+}
