@@ -1,0 +1,160 @@
+{
+  "preview_commit": "9db44909e2644066a2ac1c093cbd298c0b95a690",
+  "cache_bust": "9db44909e264",
+  "files": {
+    "wolfpack_kcd.html": {
+      "local_sha": "84d2e9551f84aeb124d55e9e3d91d1991b9d89499fd50eca5e6c8a7198011d47",
+      "raw_status": 200,
+      "raw_sha": "84d2e9551f84aeb124d55e9e3d91d1991b9d89499fd50eca5e6c8a7198011d47",
+      "raw_matches_local": true,
+      "pages_status": 200,
+      "pages_sha": "84d2e9551f84aeb124d55e9e3d91d1991b9d89499fd50eca5e6c8a7198011d47",
+      "pages_matches_local": true,
+      "title_hits": [
+        "The Manhunter Series",
+        "The Penetrator Series Box Set: Books 1-10",
+        "Card Jordan Volume One: Books 1-5",
+        "Gunpowder Mountain",
+        "Harrison Wilke: A Classic Western Collection",
+        "Nash Walker: Feud on the Frontier",
+        "People of the Owl",
+        "To Face a Savage Land",
+        "The Peter Brandvold Intro Library"
+      ],
+      "expected_title_count": 9,
+      "title_hit_count": 9,
+      "unsubscribe_present": true,
+      "maas_link_count": 18,
+      "amazon_href_count": 18,
+      "cover_count": 9,
+      "sentinel_ok": true,
+      "url": "https://dukedawg.github.io/wolfpack-email-preview/wolfpack_kcd.html?v=9db44909e264",
+      "maas_requirement": "href contains maas=maas_adg_<32hex>_afap_abs, ref_=aa_maas, tag=maas"
+    },
+    "rep_kcd.html": {
+      "local_sha": "9a78efd98e12e6ea30245b1b8d42783083fe55fe0ec2ae66c554ff570443ac1e",
+      "raw_status": 200,
+      "raw_sha": "9a78efd98e12e6ea30245b1b8d42783083fe55fe0ec2ae66c554ff570443ac1e",
+      "raw_matches_local": true,
+      "pages_status": 200,
+      "pages_sha": "9a78efd98e12e6ea30245b1b8d42783083fe55fe0ec2ae66c554ff570443ac1e",
+      "pages_matches_local": true,
+      "title_hits": [
+        "A Dark Reflection",
+        "The Complete Jake Caldwell Thriller Collection",
+        "Lars & Shaine: The Complete Series"
+      ],
+      "expected_title_count": 3,
+      "title_hit_count": 3,
+      "unsubscribe_present": true,
+      "maas_link_count": 6,
+      "amazon_href_count": 6,
+      "cover_count": 3,
+      "sentinel_ok": true,
+      "url": "https://dukedawg.github.io/wolfpack-email-preview/rep_kcd.html?v=9db44909e264",
+      "maas_requirement": "href contains maas=maas_adg_<32hex>_afap_abs, ref_=aa_maas, tag=maas"
+    },
+    "lnbp_kcd.html": {
+      "local_sha": "a7082b5c1c01b29d5435058ce3f29ab855ffea8a5eeb65212f724a07b4aea937",
+      "raw_status": 200,
+      "raw_sha": "a7082b5c1c01b29d5435058ce3f29ab855ffea8a5eeb65212f724a07b4aea937",
+      "raw_matches_local": true,
+      "pages_status": 200,
+      "pages_sha": "a7082b5c1c01b29d5435058ce3f29ab855ffea8a5eeb65212f724a07b4aea937",
+      "pages_matches_local": true,
+      "title_hits": [
+        "Forbid Me Not",
+        "Off the Menu",
+        "Vein & Vow"
+      ],
+      "expected_title_count": 3,
+      "title_hit_count": 3,
+      "unsubscribe_present": true,
+      "maas_link_count": 6,
+      "amazon_href_count": 6,
+      "cover_count": 3,
+      "sentinel_ok": true,
+      "url": "https://dukedawg.github.io/wolfpack-email-preview/lnbp_kcd.html?v=9db44909e264",
+      "maas_requirement": "href contains maas=maas_adg_<32hex>_afap_abs, ref_=aa_maas, tag=maas"
+    },
+    "dwb_kcd.html": {
+      "local_sha": "a83afe679bf20c6ae4b167f1298303f8e005e6cadf6e873e09f92381058b2455",
+      "raw_status": 200,
+      "raw_sha": "a83afe679bf20c6ae4b167f1298303f8e005e6cadf6e873e09f92381058b2455",
+      "raw_matches_local": true,
+      "pages_status": 200,
+      "pages_sha": "a83afe679bf20c6ae4b167f1298303f8e005e6cadf6e873e09f92381058b2455",
+      "pages_matches_local": true,
+      "title_hits": [
+        "Combustible"
+      ],
+      "expected_title_count": 1,
+      "title_hit_count": 1,
+      "unsubscribe_present": true,
+      "maas_link_count": 2,
+      "amazon_href_count": 2,
+      "cover_count": 1,
+      "sentinel_ok": true,
+      "url": "https://dukedawg.github.io/wolfpack-email-preview/dwb_kcd.html?v=9db44909e264",
+      "maas_requirement": "href contains maas=maas_adg_<32hex>_afap_abs, ref_=aa_maas, tag=maas"
+    },
+    "ckn_kcd.html": {
+      "local_sha": "68cf7a86ef102f9df946002e12eff3b280cea024b9a38a60af44453e6b065aca",
+      "raw_status": 200,
+      "raw_sha": "68cf7a86ef102f9df946002e12eff3b280cea024b9a38a60af44453e6b065aca",
+      "raw_matches_local": true,
+      "pages_status": 200,
+      "pages_sha": "68cf7a86ef102f9df946002e12eff3b280cea024b9a38a60af44453e6b065aca",
+      "pages_matches_local": true,
+      "title_hits": [
+        "Revelations: The Complete Trilogy",
+        "Wild Cow Ranch: The Complete Series",
+        "Willow Falls"
+      ],
+      "expected_title_count": 3,
+      "title_hit_count": 3,
+      "unsubscribe_present": true,
+      "maas_link_count": 6,
+      "amazon_href_count": 6,
+      "cover_count": 3,
+      "sentinel_ok": true,
+      "url": "https://dukedawg.github.io/wolfpack-email-preview/ckn_kcd.html?v=9db44909e264",
+      "maas_requirement": "href contains maas=maas_adg_<32hex>_afap_abs, ref_=aa_maas, tag=maas"
+    },
+    "wwb_kcd.html": {
+      "local_sha": "330de310e2c8dfca69fba5256dedb78563021c18ae0bbd8ba6c921df63f3fbe5",
+      "raw_status": 200,
+      "raw_sha": "330de310e2c8dfca69fba5256dedb78563021c18ae0bbd8ba6c921df63f3fbe5",
+      "raw_matches_local": true,
+      "pages_status": 200,
+      "pages_sha": "330de310e2c8dfca69fba5256dedb78563021c18ae0bbd8ba6c921df63f3fbe5",
+      "pages_matches_local": true,
+      "title_hits": [
+        "Lonnie Gentry and the Curse of Skull Canyon",
+        "The Abilene Kid: Dead Man's Hand",
+        "The Liars Beneath"
+      ],
+      "expected_title_count": 3,
+      "title_hit_count": 3,
+      "unsubscribe_present": true,
+      "maas_link_count": 6,
+      "amazon_href_count": 6,
+      "cover_count": 3,
+      "sentinel_ok": true,
+      "url": "https://dukedawg.github.io/wolfpack-email-preview/wwb_kcd.html?v=9db44909e264",
+      "maas_requirement": "href contains maas=maas_adg_<32hex>_afap_abs, ref_=aa_maas, tag=maas"
+    }
+  },
+  "errors": [],
+  "cover_total": 22,
+  "cover_failures": [],
+  "corrected_assets": {
+    "The Manhunter Series": "wolfpack_the_manhunter_series_d554958f.jpg",
+    "Combustible": "dwb_combustible_7db1838f.jpg"
+  },
+  "official_link_validation": {
+    "report": "kcd_link_validation_post_push.json",
+    "issues": 0,
+    "status": "pass"
+  }
+}
